@@ -82,7 +82,7 @@ const Ranking: React.FC = () => {
               navigate('/');
             }}
           >
-            Go Home
+            GO HOME
           </button>
         </div>
       </div>

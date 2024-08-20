@@ -97,7 +97,7 @@ const Results: React.FC = () => {
               navigate('/');
             }}
           >
-            Início
+            INÍCIO
           </button>
 
           <button
@@ -107,7 +107,7 @@ const Results: React.FC = () => {
               navigate('/ranking');
             }}
           >
-            Ranking
+            RANKING
           </button>
         </div>
       </div>
