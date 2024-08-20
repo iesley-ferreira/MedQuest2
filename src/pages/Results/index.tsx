@@ -1,3 +1,4 @@
+import { Done } from '@mui/icons-material';
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
@@ -30,10 +31,10 @@ const Results: React.FC = () => {
     const newRankEntry = {
       score,
       quantity,
-      percentage: parseFloat(percentage), // Salvar a porcentagem de acertos
+      percentage: parseFloat(percentage),
       userName,
       date: currentDate.toLocaleDateString(),
-      time: currentDate.toLocaleTimeString().slice(0, 5), // Salvar apenas hora e minutos
+      time: currentDate.toLocaleTimeString().slice(0, 5),
     };
 
     if (
@@ -52,7 +53,9 @@ const Results: React.FC = () => {
     dispatch(enableAlternatives());
   }, [score, quantity, userName, dispatch]);
 
-  const minimumAssertions = 3;
+  const percentage = ((score / quantity) * 100).toFixed(2);
+  const feedbackMessage =
+    parseFloat(percentage) < 75 ? 'Quase lá!' : 'Muito Bem!';
 
   return (
     <section className="feedback-card-container">
@@ -69,24 +72,23 @@ const Results: React.FC = () => {
         </div>
 
         <p data-testid="feedback-text" className="feedback-text">
-          {assertions < minimumAssertions ? 'Could be better...' : 'Well Done!'}
+          {feedbackMessage}
         </p>
 
         <div className="score-text">
-          Correct:
           <div className="score-text-container">
             <div
               data-testid="feedback-total-question"
               className="score-text-number"
             >
-              {assertions}
+              <Done fontSize="large" /> {assertions}
             </div>
             /<div className="score-text-number-dark"> {quantity}</div>
           </div>
         </div>
         <div className="buttons-container">
           <button
-            className="button play-button"
+            className="button play-button play-again-button"
             data-testid="btn-play-again"
             onClick={() => {
               dispatch(resetScore());
@@ -95,11 +97,11 @@ const Results: React.FC = () => {
               navigate('/');
             }}
           >
-            Play Again!
+            Início
           </button>
 
           <button
-            className="button settings-button"
+            className="button settings-button ranking-button"
             data-testid="btn-ranking"
             onClick={() => {
               navigate('/ranking');

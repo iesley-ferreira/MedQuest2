@@ -1,3 +1,4 @@
+import { Timer, TimerOffOutlined } from '@mui/icons-material';
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate } from 'react-router-dom';
@@ -124,9 +125,14 @@ const Game: React.FC = () => {
           disabled={selectedAnswer === null && timeLeft > 0}
         >
           {buttonClicked ? (
-            <span className="btn-next-span">Next</span>
+            <span className="btn-next-span">
+              <TimerOffOutlined />
+              Próxima
+            </span>
           ) : (
-            <span className="btn-next-span">{timeLeft} segundos</span>
+            <span className="btn-next-span">
+              <Timer /> {timeLeft}
+            </span>
           )}
         </button>
       </section>

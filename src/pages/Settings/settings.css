@@ -50,17 +50,6 @@
   font-size: 1rem;
 }
 
-.button {
-  border: none;
-  border-radius: 5px;
-  color: white;
-  cursor: pointer;
-  font-size: 10px;
-  font-weight: 500;
-  height: 45px;
-  margin-bottom: 12px;
-}
-
 .play-button {
   background-color: #cf0;
   color: #2f1c6a;

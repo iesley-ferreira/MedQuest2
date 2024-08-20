@@ -73,7 +73,7 @@ const Ranking: React.FC = () => {
         </div>
         <div className="buttons-container">
           <button
-            className="button play-button"
+            className="button play-button go-home-button"
             data-testid="btn-go-home"
             onClick={() => {
               dispatch(resetScore());

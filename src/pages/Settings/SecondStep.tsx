@@ -159,7 +159,7 @@ const SecondStep: React.FC = () => {
         onClick={handleStart}
         disabled={!selectedYear || !selectedQuestionCount}
       >
-        START
+        INICIAR
       </button>
     </div>
   );

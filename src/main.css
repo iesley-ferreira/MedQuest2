@@ -68,7 +68,7 @@ body {
   border-radius: 5px;
   color: white;
   cursor: pointer;
-  font-size: 10px;
+  font-size: 15px;
   font-weight: 500;
   height: 45px;
   margin-bottom: 12px;
@@ -92,6 +92,16 @@ body {
   background-color: #cf0;
   color: #2f1c6a;
   font-size: 12px;
+  font-weight: 800;
+  width: 100%;
+}
+
+.play-again-button,
+.ranking-button,
+.go-home-button {
+  background-color: #cf0;
+  color: #2f1c6a;
+  font-size: 16px !important;
   font-weight: 800;
   width: 100%;
 }
@@ -202,6 +212,7 @@ header {
   background-color: aliceblue;
   border-radius: 10px;
   font-size: 1em;
+
   margin-bottom: 40px;
   padding: 20px;
 }
@@ -211,7 +222,8 @@ header {
 }
 
 .content-question p {
-  font-size: 13px;
+  font-size: 15px;
+  font-weight: 550;
   margin-top: 10px;
   text-align: start;
 }
@@ -275,7 +287,7 @@ header {
   background: rgba(110, 134, 13, 0.829);
   color: #cbcbcb;
   cursor: not-allowed;
-  font-size: 0.8rem;
+  font-size: 0.9em;
   font-weight: 700;
 }
 
@@ -448,6 +460,7 @@ option {
 .score-text-container {
   color: #2f1c6a;
   display: flex;
+  padding-right: 28px;
   flex-direction: row;
   font-size: 1.7em;
 }
@@ -518,6 +531,12 @@ option {
 }
 
 .btn-next-span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-right: 10px;
+  line-height: 1.5em;
   font-size: 1.4em;
   font-weight: 700;
 }
