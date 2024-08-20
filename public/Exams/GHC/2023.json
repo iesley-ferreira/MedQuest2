@@ -1,0 +1,1252 @@
+[
+  {
+    "examId": 6,
+    "nome": "GHC/Federal",
+    "ano": "2023",
+    "edital": "No 03/2023",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 3,
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "De acordo com o disposto na Portaria no 2.436/2017, a Política Nacional de Atenção Básica considera os termos Atenção Básica (AB) e Atenção Primária à Saúde (APS), nas atuais concepções, como termos ____________, de forma a _________ ambas os princípios e as diretrizes definidas neste documento.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "equivalentes – associar a"
+          },
+          {
+            "id": 2,
+            "description": "distintos – distinguir de"
+          },
+          {
+            "id": 3,
+            "description": "discordantes – discernir entre"
+          },
+          {
+            "id": 4,
+            "description": "contraditórios – distinguir e discernir entre"
+          },
+          {
+            "id": 5,
+            "description": "incompatíveis – associar e ligar a"
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 2,
+        "question": "Em relação à Atenção Básica, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) É o conjunto de ações de saúde individuais, familiares e coletivas.\n ( ) Ações de saúde que envolvem cuidados paliativos e vigilância em saúde.\n ( ) As equipes assumem responsabilidade sanitária sobre território definido.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "F – F – V."
+          },
+          {
+            "id": 2,
+            "description": "F – V – V."
+          },
+          {
+            "id": 3,
+            "description": "V – V – V."
+          },
+          {
+            "id": 4,
+            "description": "V – V – F."
+          },
+          {
+            "id": 5,
+            "description": "V – F – F."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 3,
+        "question": "De acordo com a Portaria no 2.436/2017, são responsabilidades comuns a todas as esferas de governo:\n\n I. Planejar, apoiar, monitorar e avaliar as ações da Atenção Básica nos territórios.\n II. Garantir provimento e estratégias de fixação de profissionais de saúde para a Atenção Básica.\n III. Inserir a Estratégia de Saúde da Família em sua rede de serviços como a estratégia prioritária de organização da Atenção Básica.\n IV. Contribuir com o financiamento tripartite para fortalecimento da Atenção Básica.\n\n Qual estão INCORRETAS?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas II e IV."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I, II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II, III e IV."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 4,
+        "question": "Assinale a alternativa INCORRETA considerando o Estatuto da Pessoa Idosa (2003) e suas alterações.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "É instituído o Estatuto da Pessoa Idosa, destinado a regular os direitos assegurados às pessoas com idade igual ou superior a 65 anos."
+          },
+          {
+            "id": 2,
+            "description": "Se a pessoa idosa ou seus familiares não possuírem condições econômicas de prover o seu sustento, impõe-se ao poder público esse provimento, no âmbito da assistência social."
+          },
+          {
+            "id": 3,
+            "description": "Incumbe ao poder público fornecer às pessoas idosas, gratuitamente, próteses, órteses e outros recursos relativos ao tratamento, habilitação ou reabilitação."
+          },
+          {
+            "id": 4,
+            "description": "Em todo atendimento de saúde, os maiores de 80 (oitenta) anos terão preferência  especial sobre as demais pessoas idosas, exceto em caso de emergência."
+          },
+          {
+            "id": 5,
+            "description": "É assegurado o direito a acompanhante à pessoa idosa internada ou em observação, devendo o órgão de saúde proporcionar as condições adequadas para sua permanência em tempo integral."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 5,
+        "question": "Segundo o Estatuto do Idoso, os casos de suspeita ou confirmação de violência praticados contra pessoas idosas serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, bem como serão obrigatoriamente comunicados por eles a qualquer dos seguintes órgãos:\n\n I. Conselho Municipal da Pessoa Idosa.\n II. Conselho Interfederativo da Pessoa Idosa.\n III. Conselho Estadual da Pessoa Idosa.\n IV. Defensoria Pública da Pessoa Idosa.\n\n Quais estão corretos?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas II e IV."
+          },
+          {
+            "id": 4,
+            "description": "Apenas III e IV."
+          },
+          {
+            "id": 5,
+            "description": "I, II, III e IV."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 6,
+        "question": "A respeito de indicadores de saúde, analise as assertivas abaixo:\n\n I. Um indicador é uma variável, característica ou atributo de Estrutura, Processo ou Resultado, baseada em Donabedian (1980, 1990), que é capaz de sintetizar e/ou representar e/ou dar maior significado ao que se quer avaliar.\n II. O componente Estrutura inclui a relação entre categorias de recursos humanos existentes, tal como o número de agentes comunitários de saúde ou de profissionais de enfermagem.\n III. O componente Processo inclui a relação entre as atividades de distintos profissionais, tal como número de atividades sobre saúde reprodutiva realizadas para adolescentes no serviço de saúde ou número de primeira consulta ginecológica para gestantes.\n IV. Entre os componentes adotados na construção de um indicador, pode-se avaliar as relações que permitem a análise de quanto cada componente influencia o outro, tal como a relação estrutura/processo, avaliando a relação entre recursos existentes e a produtividade.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas III."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e IV."
+          },
+          {
+            "id": 3,
+            "description": "Apenas II e IV."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I, II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II, III e IV."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 7,
+        "question": "A respeito da utilização da epidemiologia em saúde, considerando os termos comuns usados na interpretação da literatura médica para exames diagnósticos, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.\n\n ( ) A probabilidade pós-teste é igual a chances pós-teste / (1 + chances pós-teste). \n ( ) Através de um nomograma, pode-se calcular a probabilidade pós-teste usando a probabilidade pré-teste e a razão de verossimilhança, sem ter que converter a probabilidade pré-teste em chances.\n ( ) A razão de verossimilhança negativa é a razão entre a probabilidade de um resultado negativo de exame entre pacientes sem a doença e a probabilidade de um resultado positivo entre pacientes com a doença.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – V – F."
+          },
+          {
+            "id": 2,
+            "description": "V – F – V."
+          },
+          {
+            "id": 3,
+            "description": "V – F – F."
+          },
+          {
+            "id": 4,
+            "description": "F – V – V."
+          },
+          {
+            "id": 5,
+            "description": "F – F – V."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 8,
+        "question": "No campo da ética médica ou bioética, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "No estabelecimento de prioridades nas políticas públicas de saúde, os gestores têm utilizado balizamentos, entre eles, as bases epidemiológicas e demográficas, a vulnerabilidade do agravo, os recursos, a tecnologia disponível e a efetividade dos procedimentos."
+          },
+          {
+            "id": 2,
+            "description": "Como Norma Diceológica, é direito do médico recusar-se a realizar atos médicos que, embora permitidos por lei, sejam contrários aos ditames de sua consciência."
+          },
+          {
+            "id": 3,
+            "description": "Como Norma Diceológica, é direito do médico realizar a procriação medicamente assistida, desde que seja com o objetivo de criar embriões com a finalidade de escolha de sexo."
+          },
+          {
+            "id": 4,
+            "description": "Como Norma Deontológica, é vedado ao médico abreviar a vida do paciente, ainda que a pedido deste ou de seu representante legal."
+          },
+          {
+            "id": 5,
+            "description": "Como Norma Deontológica, é vedado ao médico liberar cópias do prontuário sob sua guarda exceto para atender a ordem judicial ou para sua própria defesa, assim como quando autorizado por escrito pelo paciente."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 9,
+        "question": "Qual é a medicação de primeira linha recomendada pela American Heart Association para o tratamento de uma taquicardia supraventricular aguda?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Adenosina."
+          },
+          {
+            "id": 2,
+            "description": "Amiodarona."
+          },
+          {
+            "id": 3,
+            "description": "Digoxina."
+          },
+          {
+            "id": 4,
+            "description": "Lidocaína."
+          },
+          {
+            "id": 5,
+            "description": "Verapamil."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 10,
+        "question": "Qual é o principal objetivo do tratamento da sepse, de acordo com as diretrizes da Surviving Sepsis Campaign?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Controle da infecção primária."
+          },
+          {
+            "id": 2,
+            "description": "Controle dos níveis de lactato sanguíneo."
+          },
+          {
+            "id": 3,
+            "description": "Inibição da resposta imunológica."
+          },
+          {
+            "id": 4,
+            "description": "Melhora da perfusão tecidual."
+          },
+          {
+            "id": 5,
+            "description": "Prevenção da falência múltipla de órgãos."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 11,
+        "question": "O tipo de choque caracterizado por uma diminuição no retorno venoso ao coração e uma diminuição no débito cardíaco é o choque:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Obstrutivo."
+          },
+          {
+            "id": 2,
+            "description": "Neurogênico."
+          },
+          {
+            "id": 3,
+            "description": "Hipovolêmico."
+          },
+          {
+            "id": 4,
+            "description": "Distributivo."
+          },
+          {
+            "id": 5,
+            "description": "Cardiogênico."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 12,
+        "question": "Assinale a alternativa que corresponde à medida importante para prevenir complicações respiratórias no pós-operatório de cirurgias de grande porte.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Uso de opioides como analgésicos."
+          },
+          {
+            "id": 2,
+            "description": "Realização de fisioterapia respiratória."
+          },
+          {
+            "id": 3,
+            "description": "Monitorização da função renal."
+          },
+          {
+            "id": 4,
+            "description": "Evitar balanço hídrico positivo."
+          },
+          {
+            "id": 5,
+            "description": "Administração de antibióticos profiláticos."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 13,
+        "question": "Assinale a alternativa que corresponde a uma das principais medidas para prevenir infecções relacionadas a cateteres.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Utilização de cateteres de dois lumens ao invés de um lúmen."
+          },
+          {
+            "id": 2,
+            "description": "Troca frequente do cateter."
+          },
+          {
+            "id": 3,
+            "description": "Realização de curativos diários no local da inserção do cateter."
+          },
+          {
+            "id": 4,
+            "description": "Lavagem das mãos antes e após o manuseio do cateter."
+          },
+          {
+            "id": 5,
+            "description": "Administração de antibióticos profiláticos."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 14,
+        "question": "Qual é o tratamento mais indicado para a crise tireotóxica?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Suplementação de iodo."
+          },
+          {
+            "id": 2,
+            "description": "Bloqueador do canal de cálcio diidropiridínico."
+          },
+          {
+            "id": 3,
+            "description": "Betabloqueador."
+          },
+          {
+            "id": 4,
+            "description": "Benzodiazepínicos."
+          },
+          {
+            "id": 5,
+            "description": "Administração de corticosteroides."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 15,
+        "question": "Qual é a principal complicação da pancreatite aguda grave?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Úlceras gástricas."
+          },
+          {
+            "id": 2,
+            "description": "Síndrome do desconforto respiratório agudo (SDRA)."
+          },
+          {
+            "id": 3,
+            "description": "Insuficiência renal."
+          },
+          {
+            "id": 4,
+            "description": "Insuficiência hepática."
+          },
+          {
+            "id": 5,
+            "description": "Colangite."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 16,
+        "question": "Qual das alternativas citadas abaixo NÃO faz parte dos critérios diagnósticos para coagulação intravascular disseminada?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Tempo de protrombina prolongado."
+          },
+          {
+            "id": 2,
+            "description": "Linfopenia."
+          },
+          {
+            "id": 3,
+            "description": "Fibrinogênio baixo."
+          },
+          {
+            "id": 4,
+            "description": "D-dímero aumentado."
+          },
+          {
+            "id": 5,
+            "description": "Anemia hemolítica microangiopática."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 17,
+        "question": "Um paciente de 55 anos, sexo masculino, com antecedente de trombose venosa profunda e uso crônico de anticoagulante, apresenta-se na emergência com dispneia súbita e dor torácica. No exame físico, apresenta-se hipotenso e com taquicardia. A tomografia computadorizada de tórax revela embolia pulmonar bilateral. Qual a melhor conduta?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Suspender o anticoagulante e monitorar a evolução do quadro."
+          },
+          {
+            "id": 2,
+            "description": "Realizar fibrinólise seletiva por meio de cateterismo pulmonar."
+          },
+          {
+            "id": 3,
+            "description": "Prescrever anticoagulante de baixo peso molecular e monitorar o paciente clinicamente."
+          },
+          {
+            "id": 4,
+            "description": "Indicar trombólise imediatamente, independentemente do risco de sangramento."
+          },
+          {
+            "id": 5,
+            "description": "Administrar oxigênio suplementar e hidratação venosa."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 18,
+        "question": "Assinale a alternativa que corresponde a um critério para diagnóstico de insuficiência hepática.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Redução dos níveis de glicose no sangue."
+          },
+          {
+            "id": 2,
+            "description": "Redução dos níveis de ácido úrico no sangue."
+          },
+          {
+            "id": 3,
+            "description": "Aumento dos níveis de cálcio no sangue."
+          },
+          {
+            "id": 4,
+            "description": "Aumento dos níveis de amônia no sangue."
+          },
+          {
+            "id": 5,
+            "description": "Aumento da pressão intra-abdominal."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 19,
+        "question": "Assinale a alternativa que corresponde a uma medida eficaz para o controle da hipertensão intracraniana.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Administração de anti-inflamatórios não esteroides."
+          },
+          {
+            "id": 2,
+            "description": "Elevação da cabeceira da cama."
+          },
+          {
+            "id": 3,
+            "description": "Uso de corticoides."
+          },
+          {
+            "id": 4,
+            "description": "Uso de diuréticos de alça."
+          },
+          {
+            "id": 5,
+            "description": "Uso de estimulantes do sistema nervoso central."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 20,
+        "question": "Um homem de 45 anos, sem antecedentes médicos relevantes, é encontrado desacordado em casa por familiares, com ausência de respiração e pulso palpável. Uma ambulância é acionada e chega em cerca de 8 minutos. Ao chegarem ao local, o paciente encontra-se em PCR. Qual a melhor conduta inicial?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Realizar entubação orotraqueal e administrar adrenalina endovenosa."
+          },
+          {
+            "id": 2,
+            "description": "Realizar desfibrilação com choque elétrico de 200 Joules."
+          },
+          {
+            "id": 3,
+            "description": "Iniciar massagem cardíaca interna com auxílio de dispositivo mecânico."
+          },
+          {
+            "id": 4,
+            "description": "Iniciar compressões torácicas e ventilação com máscara bolsa-válvula imediatamente."
+          },
+          {
+            "id": 5,
+            "description": "Administrar epinefrina 1 mg via endovenosa a cada 3-5 minutos."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 21,
+        "question": "Qual é o intervalo mínimo entre os dois exames clínicos para confirmação da morte cerebral em um paciente adulto?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "1 hora."
+          },
+          {
+            "id": 2,
+            "description": "2 horas."
+          },
+          {
+            "id": 3,
+            "description": "6 horas."
+          },
+          {
+            "id": 4,
+            "description": "8 horas."
+          },
+          {
+            "id": 5,
+            "description": "12 horas."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 22,
+        "question": "Assinale a alternativa que corresponde à principal consideração ética a ser levada em conta na tomada de decisão sobre o fim do suporte de vida em um paciente em estado vegetativo persistente.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Autonomia do paciente."
+          },
+          {
+            "id": 2,
+            "description": "Beneficência ao paciente."
+          },
+          {
+            "id": 3,
+            "description": "Justiça distributiva."
+          },
+          {
+            "id": 4,
+            "description": "Não aleficência ao paciente."
+          },
+          {
+            "id": 5,
+            "description": "Responsabilidade social."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 23,
+        "question": "Qual é o principal indicador de qualidade em uma UTI em relação à mortalidade dos pacientes?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Taxa de infecção hospitalar."
+          },
+          {
+            "id": 2,
+            "description": "Taxa de mortalidade ajustada por gravidade."
+          },
+          {
+            "id": 3,
+            "description": "Taxa de ocupação da UTI."
+          },
+          {
+            "id": 4,
+            "description": "Taxa de readmissão hospitalar."
+          },
+          {
+            "id": 5,
+            "description": "Tempo de permanência na UTI."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 24,
+        "question": "A Síndrome da Resposta Inflamatória Sistêmica (SIRS) é uma resposta inflamatória:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Que ocorre somente em pacientes imunocomprometidos."
+          },
+          {
+            "id": 2,
+            "description": "Que ocorre somente em pacientes com lesão tecidual."
+          },
+          {
+            "id": 3,
+            "description": "Que ocorre somente em pacientes com infecções bacterianas ou virais graves."
+          },
+          {
+            "id": 4,
+            "description": "Que ocorre somente em pacientes com doenças autoimunes."
+          },
+          {
+            "id": 5,
+            "description": "Caracterizada por manifestações clínicas como febre, taquicardia, taquipneia e instabilidade hemodinâmica."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 25,
+        "question": "Qual dos seguintes critérios é utilizado para o diagnóstico da Síndrome da Angústia Respiratória Aguda (SARA) em um caso clínico de um paciente com quadro de dispneia aguda e infiltrados pulmonares difusos à radiografia de tórax?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Presença de sibilância e aumento do VEF1."
+          },
+          {
+            "id": 2,
+            "description": "Presença de hipocapnia e alcalose respiratória."
+          },
+          {
+            "id": 3,
+            "description": "Presença de derrame pleural e de sinais de insuficiência cardíaca."
+          },
+          {
+            "id": 4,
+            "description": "Hipoxemia refratária com PaO2/FiO2 < 200 mmHg."
+          },
+          {
+            "id": 5,
+            "description": "Aumento da capacidade vital e da complacência pulmonar."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 26,
+        "question": "A coagulopatia de consumo:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "É causada pelo excesso de coagulação, levando à formação de trombos em todo o sistema circulatório."
+          },
+          {
+            "id": 2,
+            "description": "É uma consequência da diminuição dos fatores de coagulação e da formação excessiva de fibrina, levando a sangramento."
+          },
+          {
+            "id": 3,
+            "description": "É um distúrbio de coagulação que afeta apenas os pacientes com doenças hepáticas crônicas."
+          },
+          {
+            "id": 4,
+            "description": "Não tem relação com o sistema de coagulação sanguínea, sendo causada por disfunções metabólicas."
+          },
+          {
+            "id": 5,
+            "description": "É um distúrbio de coagulação que afeta apenas os pacientes com deficiência de vitamina K."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 27,
+        "question": "Sobre o abdome agudo, assinale a alternativa correta.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A dor abdominal é um sintoma comum em pacientes com abdome agudo, mas nem sempre está presente."
+          },
+          {
+            "id": 2,
+            "description": "O abdome agudo é uma condição exclusiva de pacientes idosos."
+          },
+          {
+            "id": 3,
+            "description": "O abdome agudo pode ser causado apenas por lesões traumáticas no abdome."
+          },
+          {
+            "id": 4,
+            "description": "O diagnóstico do abdome agudo pode ser estabelecido apenas com base na história clínica do paciente."
+          },
+          {
+            "id": 5,
+            "description": "O tratamento do abdome agudo sempre envolve a realização de cirurgia de emergência."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 28,
+        "question": "Um paciente de 45 anos chega ao pronto-socorro com queixa de fezes com sangue vivo e escuro há 24 horas, além de dor abdominal tipo cólica e diarreia. Nesse caso, qual das seguintes alternativas sobre a hemorragia digestiva baixa está correta?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "O tratamento da hemorragia digestiva baixa, nesse caso, deve incluir o uso de inibidores de bomba de prótons."
+          },
+          {
+            "id": 2,
+            "description": "A retossigmoidoscopia é o exame de escolha para diagnóstico da hemorragia digestiva baixa nesse caso."
+          },
+          {
+            "id": 3,
+            "description": "A principal complicação da hemorragia digestiva baixa é a obstrução intestinal."
+          },
+          {
+            "id": 4,
+            "description": "A hemorragia digestiva baixa é sempre causada por lesões no intestino delgado."
+          },
+          {
+            "id": 5,
+            "description": "A colonoscopia pode ser necessária para a confirmação diagnóstica e tratamento da hemorragia digestiva baixa nesse caso."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 29,
+        "question": "Um paciente com dor muscular intensa, fraqueza muscular e urina escura é admitido no pronto-socorro. O exame de creatina quinase (CK) está elevado e o diagnóstico de rabdomiólise é estabelecido. Qual é a principal complicação da rabdomiólise?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Acidose metabólica."
+          },
+          {
+            "id": 2,
+            "description": "Hipercalcemia."
+          },
+          {
+            "id": 3,
+            "description": "Hipovolemia."
+          },
+          {
+            "id": 4,
+            "description": "Insuficiência hepática."
+          },
+          {
+            "id": 5,
+            "description": "Nefropatia induzida por contraste."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 30,
+        "question": "Um paciente com histórico de uso de drogas injetáveis é admitido no hospital com febre, calafrios e sopro cardíaco. O exame físico revela petéquias nas extremidades e o diagnóstico de endocardite é estabelecido. Nesse caso, analise as assertivas abaixo:\n\n *Tratamento sintomático com analgésicos e antitérmicos.\n *Tratamento com anticoagulantes para prevenção de embolia.\n *Terapia com antibióticos intravenosos por pelo menos 4 semanas.\n *Realização de cirurgia cardíaca para remoção do tecido infectado.\n *Antibióticos orais de amplo espectro.\n\n Quantas assertivas estão corretas para o tratamento da endocardite?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas uma."
+          },
+          {
+            "id": 2,
+            "description": "Duas."
+          },
+          {
+            "id": 3,
+            "description": "Três."
+          },
+          {
+            "id": 4,
+            "description": "Quatro."
+          },
+          {
+            "id": 5,
+            "description": "Cinco."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 31,
+        "question": "Em um paciente séptico com evolução refratária ao manejo ideal qual é o mecanismo fisiopatológico responsável pela evolução da disfunção de múltiplos órgãos e sistemas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Resposta inflamatória sistêmica (SIRS)."
+          },
+          {
+            "id": 2,
+            "description": "Redução da oferta de oxigênio aos tecidos (hipóxia)."
+          },
+          {
+            "id": 3,
+            "description": "Hipotensão arterial sistêmica."
+          },
+          {
+            "id": 4,
+            "description": "Disfunção endotelial."
+          },
+          {
+            "id": 5,
+            "description": "Acidose metabólica."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 32,
+        "question": "Qual das alternativas abaixo NÃO é uma contraindicação absoluta para o uso de ventilação mecânica não invasiva?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Cirurgia esofágica."
+          },
+          {
+            "id": 2,
+            "description": "Distensão abdominal."
+          },
+          {
+            "id": 3,
+            "description": "Gravidez."
+          },
+          {
+            "id": 4,
+            "description": "Instabilidade hemodinâmica."
+          },
+          {
+            "id": 5,
+            "description": "Queimadura de face."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 33,
+        "question": "Qual a principal causa de morte súbita em paciente com infarto agudo do miocárdio?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "AVC isquêmico de tronco."
+          },
+          {
+            "id": 2,
+            "description": "Edema agudo de pulmão."
+          },
+          {
+            "id": 3,
+            "description": "Fibrilação ventricular."
+          },
+          {
+            "id": 4,
+            "description": "Ruptura do ventrículo esquerdo."
+          },
+          {
+            "id": 5,
+            "description": "Taquicardia ventricular."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 34,
+        "question": "Sobre a curva de fluxo da ventilação mecânica, analise o trecho abaixo:\n\n A curva de fluxo é geralmente exibida em um gráfico com o _________ no eixo X e o ___________ no eixo Y. Durante a fase inspiratória, o _________ aumenta até atingir um pico e, em seguida, diminui gradualmente até zero no final da inspiração. Durante a fase expiratória, o _________ é negativo e diminui gradualmente até atingir um valor mínimo antes de iniciar a próxima inspiração.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "fluxo de ar – tempo – fluxo de ar – fluxo de ar"
+          },
+          {
+            "id": 2,
+            "description": "fluxo de ar – tempo – volume – volume"
+          },
+          {
+            "id": 3,
+            "description": "tempo – fluxo de ar – fluxo de ar – fluxo de ar"
+          },
+          {
+            "id": 4,
+            "description": "tempo – volume – tempo – fluxo de ar"
+          },
+          {
+            "id": 5,
+            "description": "volume de ar – tempo – volume – fluxo de ar"
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 35,
+        "question": "Qual das alternativas abaixo NÃO é fator de risco para infecções fúngicas em pacientes internados em UTI?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Histórico de diabetes melito."
+          },
+          {
+            "id": 2,
+            "description": "Histórico de hipertensão arterial sistêmica."
+          },
+          {
+            "id": 3,
+            "description": "Infecção pelo HIV."
+          },
+          {
+            "id": 4,
+            "description": "Procedimentos invasivos."
+          },
+          {
+            "id": 5,
+            "description": "Uso prolongado de antibióticos."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 36,
+        "question": "Qual é o principal objetivo do uso de bloqueadores neuromusculares em pacientes internados em UTI?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Alívio da dor."
+          },
+          {
+            "id": 2,
+            "description": "Controle do ritmo cardíaco."
+          },
+          {
+            "id": 3,
+            "description": "Melhora da oxigenação."
+          },
+          {
+            "id": 4,
+            "description": "Redução da pressão arterial."
+          },
+          {
+            "id": 5,
+            "description": "Sedação profunda."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 37,
+        "question": "Qual é o principal escore de gravidade utilizado em UTI para avaliar o prognóstico de pacientes com sepse?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "APACHE II."
+          },
+          {
+            "id": 2,
+            "description": "APACHE III."
+          },
+          {
+            "id": 3,
+            "description": "CURB-65."
+          },
+          {
+            "id": 4,
+            "description": "qSOFA."
+          },
+          {
+            "id": 5,
+            "description": "SOFA."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 38,
+        "question": "Analise os itens abaixo:\n\n * Staphylococcus aureus.\n * Proteus mirabilis.\n * Acinetobacter baumannii.\n * Stenotrophomonas maltophilia.\n * Enterococcus faecalis.\n\n Quantos são sensíveis a tigeciclina?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas um."
+          },
+          {
+            "id": 2,
+            "description": "Dois."
+          },
+          {
+            "id": 3,
+            "description": "Três."
+          },
+          {
+            "id": 4,
+            "description": "Quatro."
+          },
+          {
+            "id": 5,
+            "description": "Cinco."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 39,
+        "question": "São resistentes à anfotericina:\n\n I. Aspergillus.\n II. Cryptococcus.\n III. Fusarium.\n IV. Candida glabatra.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III e IV."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I, II e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I, II e IV."
+          },
+          {
+            "id": 5,
+            "description": "Apenas II, III e IV."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 40,
+        "question": "Qual é o papel dos cuidados paliativos em UTIs?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2023",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas fornecer conforto para pacientes em estado terminal."
+          },
+          {
+            "id": 2,
+            "description": "Apenas fornecer informações aos familiares sobre a condição dos pacientes."
+          },
+          {
+            "id": 3,
+            "description": "Oferecer suporte apenas para pacientes com doenças crônicas."
+          },
+          {
+            "id": 4,
+            "description": "Proporcionar suporte emocional apenas para as famílias dos pacientes."
+          },
+          {
+            "id": 5,
+            "description": "Reduzir o sofrimento dos pacientes, independentemente da cura ou prolongamento da vida."
+          }
+        ],
+        "rightAlternativeId": 5
+      }
+    ]
+  }
+]

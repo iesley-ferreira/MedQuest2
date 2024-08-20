@@ -1,0 +1,95 @@
+.title {
+  align-items: flex-end;
+  color: white;
+  display: flex;
+  font-size: 3em;
+  font-weight: 600;
+  justify-content: center;
+  margin-bottom: 0.5em;
+  margin-top: -10px;
+  width: 100%;
+}
+
+.title span {
+  color: #2f1c6a;
+  font-size: 0.5em;
+  font-weight: 400;
+  padding-bottom: 8px;
+}
+
+.login-form {
+  background-color: #673de6;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  font-size: 2em;
+}
+
+.login-input {
+  background-color: #673de6;
+  border: solid 1px #000000de;
+  border-radius: 5px;
+  color: #000000de;
+  padding: 16px 26px;
+  width: 100%;
+}
+
+.login-input:focus {
+  border: solid 1px #cf0;
+  outline: none;
+}
+
+.login-input::placeholder {
+  border: none;
+  color: #000000de;
+}
+
+.button {
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 10px;
+  font-weight: 500;
+  height: 45px;
+  margin-bottom: 12px;
+}
+
+.play-button {
+  background-color: #cf0;
+  color: #2f1c6a;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.settings-button > img {
+  margin-right: 10px;
+}
+
+.second-step-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.second-step-form {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  width: 100%;
+  min-width: 300px;
+}
+
+.select-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 50%;
+}

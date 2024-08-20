@@ -1,0 +1,973 @@
+[
+  {
+    "examId": 3,
+    "nome": "GHC/Federal",
+    "ano": "2020",
+    "edital": "No 01/2020",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 1,
+    "questions": [
+      {
+        "questionId": 10,
+        "question": "De acordo com a Lei no 8.080/1990, analise as seguintes assertivas sobre as competências da direção nacional do Sistema Único de Saúde (SUS) ou da União:\n\n I. Definir e coordenar os sistemas: de redes integradas de assistência de alta complexidade, de rede de laboratórios de saúde pública, de vigilância epidemiológica e vigilância sanitária.\n II. Em circunstâncias especiais, como na ocorrência de agravos inusitados à saúde, que possam escapar do controle da direção estadual do SUS ou que representem risco de disseminação nacional, a União poderá executar ações de vigilância epidemiológica e sanitária.\n III. Promover a descentralização para os municípios dos serviços e das ações de saúde.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 11,
+        "question": "De acordo com a Lei no 8.142/1990, analise as seguintes assertivas e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) Para receberem os recursos estabelecidos nessa Lei, os Municípios, os Estados e o Distrito Federal deverão contar, entre outros itens, com o Fundo de Saúde, o Plano de Saúde, o Perfil Demográfico e a comissão de elaboração do Plano de Carreira, Cargos e Funções (PCCF).\n ( ) Como instâncias colegiadas, em cada esfera de governo, o SUS contará com a Conferência de Saúde e o Conselho de Saúde, sem prejuízo das funções do Poder Legislativo.\n ( ) O Conselho de Saúde, em caráter permanente e consultivo, atua na formulação de estratégias e no controle da elaboração da política de saúde na instância correspondente, salvo nos aspectos econômicos e financeiros, cujas decisões serão homologadas pelo chefe do poder legalmente constituído em cada esfera do governo.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – V – V."
+          },
+          {
+            "id": 2,
+            "description": "V – F – V."
+          },
+          {
+            "id": 3,
+            "description": "V – F – F."
+          },
+          {
+            "id": 4,
+            "description": "F – V – F."
+          },
+          {
+            "id": 5,
+            "description": "F – F – V."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 12,
+        "question": "De acordo com o Decreto no 7.508/2011, que regulamenta a Lei no 8.080/1990, o _________________________________ tem como objeto a organização e a integração das ações e dos serviços de saúde, sob a responsabilidade dos entes federativos em uma região de saúde, com a finalidade de garantir a integralidade da assistência aos usuários, e resultará da integração dos planos de saúde os entes federativos na rede de atenção à saúde, tendo como fundamento as pactuações estabelecidas pela ______________________ .",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Contrato Organizativo da Ação Pública da Saúde – Comissão Intergestores Tripartite"
+          },
+          {
+            "id": 2,
+            "description": "Pacto Federativo Intergestores – Conferência Nacional de Saúde"
+          },
+          {
+            "id": 3,
+            "description": "Contrato Organizativo da Ação Pública da Saúde – Rede Nacional de Serviços de Saúde"
+          },
+          {
+            "id": 4,
+            "description": "Pacto Federativo Intergestores – Conferência Nacional de Saúde"
+          },
+          {
+            "id": 5,
+            "description": "Contrato Organizativo da Ação Pública da Saúde – Conferência Nacional de Saúde"
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 13,
+        "question": "A Portaria GM/MS no 399/2006 divulga o Pacto pela Saúde que expressa compromissos entre os gestores do SUS em torno de prioridades, busca consolidar a política pública de saúde brasileira como uma política de Estado, mais do que uma política de governos, e estabelece diretrizes para a gestão do sistema nos aspectos de descentralização, regionalização, financiamento, planejamento, programação pactuada e integrada, regulação, participação social, gestão do trabalho e da educação na saúde. É correto afirmar que essa Portaria inclui, nominalmente, o Pacto em Defesa do SUS, bem como o Pacto",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "pela Participação Social e o Pacto Inclusivo da Saúde."
+          },
+          {
+            "id": 2,
+            "description": "em Resposta às Doenças Crônicas e Pacto de Vigilância em Saúde."
+          },
+          {
+            "id": 3,
+            "description": "Gem Defesa das Comunidades Vulneráveis e o Pacto de Gestão Centralizada."
+          },
+          {
+            "id": 4,
+            "description": "da Equidade e o Pacto da Universalidade."
+          },
+          {
+            "id": 5,
+            "description": "pela Vida e o Pacto de Gestão."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 14,
+        "question": "De acordo com a Lei no 10.741/2003, relativa ao Estatuto do Idoso, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "É dever de todos zelar pela dignidade do idoso, colocando-o a salvo de qualquer tratamento desumano, violento, aterrorizante, vexatório ou constrangedor."
+          },
+          {
+            "id": 2,
+            "description": "É vedado exigir o comparecimento do idoso enfermo perante os órgãos públicos, salvo na hipótese de interesse do Poder Público, bem como no caso de perícia médica do Instituto Nacional do Seguro Social- INSS."
+          },
+          {
+            "id": 3,
+            "description": "O Poder Público incentivará programas de estímulo às empresas privadas para admissão de idosos ao trabalho."
+          },
+          {
+            "id": 4,
+            "description": "O Poder Público apoiará a criação de universidade aberta para pessoas idosas e incentivará a publicação de livros e periódicos, de conteúdo e padrão editorial adequados ao idoso, que facilitem a leitura, considerada a natural redução da capacidade visual."
+          },
+          {
+            "id": 5,
+            "description": "A prevenção e a manutenção da saúde de idoso serão efetivadas por meio de cadastramento da população idosa em base territorial e de atendimento geriátrico e gerontológico em ambulatório, entre outras ações."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 15,
+        "question": "De acordo com a Portaria no 2.436/2017, analise as seguintes assertivas:\n\n I. São responsabilidades comuns a todas as esferas de governo planejar, apoiar, monitorar e avaliar as ações da Atenção Básica nos territórios.\n II. É princípio da Atenção Básica a resolutividade, capaz de resolver a grande maioria dos problemas de saúde da população, coordenando o cuidado do usuário em outros pontos da Rede de Atenção à Saúde (RAS), quando necessário.\n III. As ações e serviços da Atenção Básica deverão seguir padrões essenciais e ampliados. Os padrões ampliados são ações e procedimentos considerados estratégicos para se avançar e alcançar padrões elevados de acesso e qualidade na Atenção Básica, considerando as especificidades locais, indicadores e parâmetros estabelecidos nas Regiões de Saúde.\n IV. O Núcleo Ampliado de Saúde da Família e Atenção Básica (Nasf-AB) constitui equipe multiprofissional e interdisciplinar, composta por categorias de profissionais da saúde, complementar às equipes que atuam na Atenção Básica, formada por diferentes ocupações (profissões e especialidades) da área da saúde, atuando de maneira integrada para dar suporte (clínico, sanitário e pedagógico) aos profissionais das equipes de Saúde da Família (eSF) e de Atenção Básica (eAB).\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 2,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas III e IV."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I, II e IV."
+          },
+          {
+            "id": 5,
+            "description": "Apenas I, III e IV."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 16,
+        "question": "Analise as seguintes assertivas a respeito de Bioética ou do Código de Ética Médica (CEM):\n\n I. O consentimento informado inclui uma discussão sobre a informação que um paciente sensato desejaria saber acerca de sua enfermidade, dos planos de diagnóstico e de tratamento e seus riscos e benefícios, uma avaliação do entendimento do paciente e a aceitação ou rejeição do paciente, por livre e espontânea vontade, para que o consentimento seja válido.\n II. O médico deve trabalhar ativamente para eliminar a discriminação na assistência médica, seja aquela relacionada com raça, gênero, condição socioeconômica, etnia, religião ou qualquer outra categoria social, em respeito ao princípio de justiça.\n III. Como norma diceológica, o CEM estabelece que, no processo de tomada de decisões profissionais, de acordo com seus ditames de consciência e as previsões legais, o médico aceitará as escolhas de seus pacientes relativas aos procedimentos diagnósticos e terapêuticos por eles expressos, desde que adequadas ao caso e cientificamente reconhecidas.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 17,
+        "question": "Uma mulher com 50 anos, não tabagista, apresenta queixas de boca seca e de queimação, secura, prurido e sensação de corpo estranho ocular, que pioram no decorrer do dia ou durante a leitura. Sendo confirmada a Síndrome de Sjögren primária, analise as seguintes assertivas sobre essa doença e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) A prevalência de manifestações extraglandulares inclui artralgias, artrite e Fenômeno de Raynaud.\n ( ) O exame físico pode revelar uma mucosa oral seca, atrofia das papilas filiformes no dorso da língua e, na maioria dos pacientes, redução das glândulas parótidas.\n ( ) O timoma é uma manifestação bem conhecida dessa síndrome, em geral, na fase tardia da doença.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – V – V."
+          },
+          {
+            "id": 2,
+            "description": "V – F – V."
+          },
+          {
+            "id": 3,
+            "description": "V – F – F."
+          },
+          {
+            "id": 4,
+            "description": "F – V – V."
+          },
+          {
+            "id": 5,
+            "description": "F – F – F."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 18,
+        "question": "A respeito da interpretação do eletrocardiograma (ECG) e das doenças ou condições associadas, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A elevação da onda T, apiculada e assimétrica, ocorre frequentemente com hipertrofia ventricular, miocardiopatias, hipopotassemia e lesão vascular encefálica, principalmente hemorragias intracranianas."
+          },
+          {
+            "id": 2,
+            "description": "O bloqueio de ramo esquerdo é frequentemente um indicador de condições subjacentes associadas a maior risco de morbidade e mortalidade cardiovasculares: cardiopatia hipertensiva, valvulopatia aórtica, miocardiopatia e doença arterial coronariana."
+          },
+          {
+            "id": 3,
+            "description": "O prolongamento do intervalo QT corrigido ocorre na hipocalcemia."
+          },
+          {
+            "id": 4,
+            "description": "Existe variabilidade dos padrões de ECG na isquemia aguda do miocárdio, entre elas, se inclui a isquemia transmural sem infarto, com elevações transitórias do segmento ST ou normalização paradoxal da onda T, algumas vezes seguidas por inversões da onda T."
+          },
+          {
+            "id": 5,
+            "description": "A sobrecarga atrial esquerda produz uma onda P bifásica em V1, com o componente negativo alargado ou onda P alargada."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 19,
+        "question": "Analise as seguintes assertivas a respeito das complicações transfusionais:\n\n I. A púrpura pós-transfusional é uma complicação frequente, caracterizada pela ocorrência repentina de trombocitopenia, embora os pacientes raramente apresentem sangramento espontâneo em membranas mucosas ou epistaxe.\n II. A febre, a taquicardia e a dispneia acompanhadas de infiltrações intersticiais e alveolares bilaterais e difusas observadas nas imagens de radiografia são uma complicação ameaçadora à vida, decorrente da lesão pulmonar aguda relacionada à transfusão.\n III. A maioria das reações transfusionais hemolíticas agudas é devido a erros cometidos durante o processamento do sangue, seja à beira do leito do paciente ou no banco de sangue.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 20,
+        "question": "Uma paciente com 32 anos apresenta queixas de fadiga, mais acentuada ao final do dia, além de diplopia e ptose palpebral. Para avaliar a eficácia de seu tratamento para miastenia gravis e os efeitos colaterais induzidos por fármacos, analise os seguintes testes clínicos que podem ser úteis, assinalando C, se corretos e úteis, ou I, se incorretos e inúteis.\n\n ( ) Tempo até o aparecimento de ptose palpebral durante o olhar para cima.\n ( ) Dinamometria quantitativa dos músculos dos membros, em especial dos músculos proximais.\n ( ) Capacidade vital forçada.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "C – C – C."
+          },
+          {
+            "id": 2,
+            "description": "C – C – I."
+          },
+          {
+            "id": 3,
+            "description": "C – I – I."
+          },
+          {
+            "id": 4,
+            "description": "I – C – I."
+          },
+          {
+            "id": 5,
+            "description": "I – I – C."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 21,
+        "question": "Um paciente com 65 anos, institucionalizado há mais de seis meses em clínica geriátrica, em uma pequena cidade do interior do Rio Grande do Sul, vem fazendo uso de fluoroquinolona durante os últimos 15 dias. Apresenta quadro atual de diarreia intensa, fezes mucoides, febre e dor abdominal. Na forte suspeita clínica de colite pseudomembranosa causada pelo bacilo gram-positivo Clostridium difficile, em situação em que não há disponibilidade para o exame rápido de fezes para diagnóstico ou de testes com reação em cadeia da polimerase (PCR), pode-se recomendar a descontinuidade do uso desse antimicrobiano, isolamento de contato e terapia empírica com:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Cloroquina e tinidazol."
+          },
+          {
+            "id": 2,
+            "description": "Metronidazol ou vancomicina."
+          },
+          {
+            "id": 3,
+            "description": "Bismuto e tinidazol."
+          },
+          {
+            "id": 4,
+            "description": "Vitamina D e azitromicina."
+          },
+          {
+            "id": 5,
+            "description": "Azitromicina e mebendazol."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 22,
+        "question": "O médico, para reduzir ou eliminar o seu grau de incerteza, utiliza os testes diagnósticos em situações clínicas diversas. Nesse sentido, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A razão de verossimilhança ou razão de probabilidades diagnósticas é a probabilidade de ocorrência de um resultado de um teste em pessoas com a doença, dividida pela probabilidade do mesmo resultado em pessoas não doentes."
+          },
+          {
+            "id": 2,
+            "description": "A curva ROC (Receiver Operator Characteristic) é uma forma de expressar graficamente a relação entre a sensibilidade e a especificidade. Para construí-la, deve-se plotar a taxa de verdadeiros positivos (sensibilidade) contra a taxa de verdadeiros negativos (especificidade)."
+          },
+          {
+            "id": 3,
+            "description": "A precisão de um teste, também designada como confiabilidade ou reprodutibilidade, é a extensão em que medidas de um fenômeno estável, repetidas por pessoas e instrumentos diferentes, em momentos e lugares diferentes, alcançam resultados semelhantes."
+          },
+          {
+            "id": 4,
+            "description": "Quanto maior a área sob a curva ROC, maior a acurácia de um teste, por isso os testes com maior poder discriminativo apresentam curvas cujos pontos se concentram no canto superior esquerdo dessa curva."
+          },
+          {
+            "id": 5,
+            "description": "A probabilidade pós-teste ou valor preditivo é a probabilidade de ocorrência da doença ou de sua ausência, tendo-se os resultados de um teste."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 23,
+        "question": "Analise as seguintes assertivas a respeito dos acidentes vasculares cerebrais:\n\n I. Os sinais ou sintomas mais frequentes de acidente vascular cerebral de circulação posterior são a afasia e o desvio do olhar contralateral à hemiparesia.\n II. O surgimento súbito de sintomas ou sinais tais como ataxia de marcha, hemiparesia, sintomas visuais súbitos e alterações da linguagem, entre outros, tem alta sensibilidade para identificar os acidentes vasculares cerebrais.\n III. A avaliação da simetria de face, da força dos membros superiores e da fala são testes úteis e sensíveis para identificar o acidente vascular cerebral da circulação anterior.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 24,
+        "question": "A respeito das doenças alérgicas, analise as seguintes assertivas e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) A adrenalina em solução aquosa a 1:1.000, dose de 0,3 a 0,5 mL via intramuscular, preferentemente, ou subcutânea, é a base do tratamento imediato de reação alérgica frente a um episódio de anafilaxia grave.\n ( ) A reação alérgica tipo III-complexo imune pode ter quadro clínico de doença do soro ou reação de Arthus, sendo causada por drogas, doenças imunológicas e vacinas.\n ( ) A anafilaxia é uma reação alérgica de rápida evolução, causada principalmente por ativação de imunoglobulina E e subsequente liberação maciça de histamina.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – V – V."
+          },
+          {
+            "id": 2,
+            "description": "V – V – F."
+          },
+          {
+            "id": 3,
+            "description": "V – F – F."
+          },
+          {
+            "id": 4,
+            "description": "F – V – F."
+          },
+          {
+            "id": 5,
+            "description": "F – F – V."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 25,
+        "question": "A respeito de sinais ou sintomas de doenças ou de suas características clínico- epidemiológicas, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A dengue, na fase crítica, após o desaparecimento da febre, pode acarretar manifestações de alerta como dor abdominal intensa (referida ou à palpação), vômitos persistentes, ascite, derrame pleural ou pericárdico, hipotensão postural, hepatomegalia, aumento progressivo do hematócrito e sangramento de mucosa."
+          },
+          {
+            "id": 2,
+            "description": "A ocorrência de infecção causada por vírus zika durante a gestação pode causar malformações congênitas e microcefalia."
+          },
+          {
+            "id": 3,
+            "description": "A infecção respiratória aguda causada pelos vírus influenza A, B e C, que surge em surtos e epidemias sazonais, é transmitida de forma direta, pessoa a pessoa, por gotículas lançadas no ar, ou indireta, sobretudo, pelas mãos, porém os fômites também podem transmitir essa doença."
+          },
+          {
+            "id": 4,
+            "description": "A febre pode ser a única manifestação de infecção em pacientes neutropênicos submetidos à quimioterapia ou em casos de neutropenia congênita cíclica ou persistente."
+          },
+          {
+            "id": 5,
+            "description": "A doença por vírus Chikungunya, na fase aguda, é acompanhada de erupção cutânea generalizada, comprometendo inclusive regiões palmoplantares, além de quadro clínico com manifestações hepáticas, oculares e neurológicas, entre outras, e, na fase crônica, predominam as manifestações cardiovasculares."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 26,
+        "question": "A respeito da tuberculose, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A prova tuberculínica ou teste tuberculínico consiste na injeção intradérmica de 0,1 mL de uma solução-padrão, e a leitura do resultado é medida em milímetros do diâmetro transverso da enduração."
+          },
+          {
+            "id": 2,
+            "description": "Há indicação para a realização da prova tuberculínica na investigação complementar para fins de diagnóstico de probabilidade de tuberculose em pacientes com suspeita clínica e radiológica de tuberculose pulmonar, com escarro negativo para BAAR."
+          },
+          {
+            "id": 3,
+            "description": "Em adultos não imunossuprimidos, é mais comum o adoecimento por tuberculose pulmonar pós-primária, decorrente de reinfecção ou reativação de focos micobacterianos endógenos latentes."
+          },
+          {
+            "id": 4,
+            "description": "A tuberculose ganglionar é mais comum na região cervical ou supraclavicular e menos frequente na região axilar ou inguinal."
+          },
+          {
+            "id": 5,
+            "description": "Um resultado falso-positivo da prova tuberculínica pode ocorrer durante a gravidez, na imunodepressão avançada e na desidratação acentuada."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 27,
+        "question": "Os antidepressivos são ferramentas importantes no tratamento dos transtornos mentais mais prevalentes da população, entre eles, a depressão. Nesse sentido, analise as seguintes assertivas sobre os inibidores seletivos de recaptação da serotonina: \n\n I. A fluoxetina tem meia-vida curta e não pode ser interrompida mesmo em doses mais altas, além de aumentar o apetite nos primeiros meses de uso.\n II. O escitalopram não deve ser prescrito em pessoas usando múltiplos medicamentos, devido à sua ação de elevada interação medicamentosa.\n III. A paroxetina tem ação anti-histamínica e anticolinérgica e se constitui em opção para pacientes inapetentes e insones.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 28,
+        "question": "Comparando as três curvas pressão-volume abaixo, quais delas representariam um paciente com Síndrome do Desconforto Respiratório Agudo já em fase fibroproliferativa da doença?",
+        "image": "public/images/GHC/28-2020.png",
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas a curva A."
+          },
+          {
+            "id": 2,
+            "description": "Apenas a curva B."
+          },
+          {
+            "id": 3,
+            "description": "Apenas a curva C."
+          },
+          {
+            "id": 4,
+            "description": "Apenas as curvas A e C."
+          },
+          {
+            "id": 5,
+            "description": "Apenas as curvas B e C."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 29,
+        "question": "Em qual das situações abaixo podemos utilizar a succinilcolina, com segurança, na intubação dos pacientes com insuficiência respiratória?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Pacientes com história de hipertermia maligna."
+          },
+          {
+            "id": 2,
+            "description": "Pacientes hipercalêmicos."
+          },
+          {
+            "id": 3,
+            "description": "Pacientes com imobilização prolongada."
+          },
+          {
+            "id": 4,
+            "description": "Pacientes com exacerbação da doença pulmonar obstrutiva crônica."
+          },
+          {
+            "id": 5,
+            "description": "Pacientes com miopatia grave."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 30,
+        "question": "Qual dos procedimentos abaixo NÃO é obrigatório antes da determinação de Morte Encefálica (ME) em um paciente adulto?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Notificar à Central Estadual de Transplantes que o processo de determinação da ME foi iniciada."
+          },
+          {
+            "id": 2,
+            "description": "Ter evidência de lesão encefálica de causa conhecida, irreversível e capaz de causar a ME."
+          },
+          {
+            "id": 3,
+            "description": "Tratamento e observação do paciente em hospital por período mínimo de 6 horas. Esse período de observação e tratamento deve ser, no mínimo, de 12 horas em casos de encefalopatia hipóxico-isquêmica ou após reaquecimento de hipotermia terapêutica."
+          },
+          {
+            "id": 4,
+            "description": "Durante o teste da apneia, deve haver ausência de movimentos respiratórios após a interrupção de ventilação, mediante a estimulação máxima do centro respiratório com documentação de uma PaCO2> 55 mmHg."
+          },
+          {
+            "id": 5,
+            "description": "Atualizar as informações aos familiares a cada etapa do processo de determinação da ME."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 31,
+        "question": "Homem de 30 anos chega à sala de emergência com quadro de politraumatismo crânio-encefálico, torácico e abdominal. Apresenta sinais clínicos de hemorragia (pressão arterial sistólica <70 mmHg e frequência cardíaca >120 batimentos por minuto). Qual a conduta imediata correta a ser realizada pelo médico da emergência em relação à hemorragia?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Reposição imediata de concentrado de glóbulos vermelhos, plasma fresco congelado e plaquetas."
+          },
+          {
+            "id": 2,
+            "description": "Reposição imediata de ácido tranexâmico e ecografia abdominal à beira-leito."
+          },
+          {
+            "id": 3,
+            "description": "Reposição imediata de proteína C ativada recombinante e tomografia abdominal sem contraste."
+          },
+          {
+            "id": 4,
+            "description": "Reposição imediata de crioprecipitado e ecografia abdominal à beira-leito."
+          },
+          {
+            "id": 5,
+            "description": "Imediata laparotomia exploradora."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 32,
+        "question": "Paciente em ventilação mecânica há 7 dias, com melhora dos sinais de insuficiência respiratória, inicia processo de desmame ventilatório e, após 2 horas de suspensão da sedação, apresenta-se desconfortável e com as curvas ventilatórias demonstradas abaixo: \n\n Sobre esse caso, assinale a alternativa correta.",
+        "image": "public/images/GHC/32-2020.png",
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apresenta duplo disparo."
+          },
+          {
+            "id": 2,
+            "description": "Apresenta fluxo inspiratório insuficiente."
+          },
+          {
+            "id": 3,
+            "description": "Não existem anormalidades detectáveis."
+          },
+          {
+            "id": 4,
+            "description": "Apresenta ciclagem prematura."
+          },
+          {
+            "id": 5,
+            "description": "Apresenta disparo inefetivo."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 33,
+        "question": "Em relação ao caso clínico apresentado na questão anterior, algum ajuste dos parâmetros ventilatórios deveria ser realizado?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Aumentar a sensibilidade de “trigger”."
+          },
+          {
+            "id": 2,
+            "description": "Aumentar o fluxo inspiratório."
+          },
+          {
+            "id": 3,
+            "description": "Diminuir o fluxo inspiratório."
+          },
+          {
+            "id": 4,
+            "description": "Aumentar o “rise time”."
+          },
+          {
+            "id": 5,
+            "description": "Nenhum ajuste necessita ser realizado."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 34,
+        "question": "Em relação ao modo ventilatório “Ventilação com suporte adaptativo”, assinale a alternativa correta.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Pode ser usado somente em pacientes que apresentem “drive” ventilatório."
+          },
+          {
+            "id": 2,
+            "description": "Método sugerido no desmame ventilatório de pacientes com doenças obstrutivas pulmonares."
+          },
+          {
+            "id": 3,
+            "description": "Para seu funcionamento, o operador deve ajustar a percentagem de volume-minuto e a PEEP."
+          },
+          {
+            "id": 4,
+            "description": "O disparo dos ciclos espontâneos é realizado através da leitura do ciclo neural do paciente, semelhante ao modo “NAVA”."
+          },
+          {
+            "id": 5,
+            "description": "É necessária a regulagem da relação I:E visando maior sincronia ventilatória."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 35,
+        "question": "Em relação ao desmame ventilatório e extubação dos pacientes críticos, qual das alternativas abaixo está INCORRETA?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Pacientes com desmame simples têm melhor prognóstico (mortalidade e necessidade de reintubação) que pacientes com desmame difícil ou prolongado."
+          },
+          {
+            "id": 2,
+            "description": "Ventilação não invasiva após a extubação deve ser indicada para pacientes portadores de DPOC."
+          },
+          {
+            "id": 3,
+            "description": "Pacientes que tiveram sucesso no teste de ventilação espontânea, porém apresentaram depressão do sensório (Glasgow < 8) podem ser extubados desde que apresentem adequada força de tosse e pouca quantidade de secreção respiratória (escore de cuidados de via aérea < 7)."
+          },
+          {
+            "id": 4,
+            "description": "Teste do “cuff-leak”, antes da extubação, pode ajudar na definição de uma extubação segura."
+          },
+          {
+            "id": 5,
+            "description": "O índice de respiração superficial (f/VT) não deve ser utilizado como rotina no desmame ventilatório de pacientes críticos."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 36,
+        "question": "Os pacientes que apresentam sepse, causa habitual de admissão na UTI, têm uma elevada taxa de mortalidade intra-hospitalar, porém, frequentemente, recebem alta da terapia intensiva e retornam ao seu domicílio. Em relação a esses pacientes sobreviventes da terapia intensiva, após alta hospitalar, analise as assertivas abaixo:\n\n I. Frequentemente apresentam distúrbios psicológicos e cognitivos.\n II. Comumente têm uma redução de sua capacidade de realizar as atividades habituais e instrumentais de vida diária.\n III. Raramente reinternam no hospital devido a problemas relacionados à infecção.\n IV. Apresentam uma taxa de mortalidade semelhante à da população geral, quando pareados por idade, comorbidades e nível educacional.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III e IV."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I, II e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II, III e IV."
+          },
+          {
+            "id": 5,
+            "description": "I, II, III e IV."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 37,
+        "question": "Qual o diagnóstico da radiografia de tórax ilustrada abaixo?",
+        "image": "public/images/GHC/37-2020.png",
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Derrame pleural esquerdo."
+          },
+          {
+            "id": 2,
+            "description": "Pneumotórax hipertensivo."
+          },
+          {
+            "id": 3,
+            "description": "Edema pulmonar cardiogênico."
+          },
+          {
+            "id": 4,
+            "description": "Intubação seletiva à direita, com atelectasia pulmonar esquerda."
+          },
+          {
+            "id": 5,
+            "description": "Intubação seletiva à direita, com pneumotórax à direita em paciente com infiltrado pulmonar."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 38,
+        "question": "Na curva de capnografia abaixo, as setas sugerem qual alteração?",
+        "image": "public/images/GHC/38-2020.png",
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Presença de movimentos respiratórios espontâneos."
+          },
+          {
+            "id": 2,
+            "description": "Presença de escape de ar."
+          },
+          {
+            "id": 3,
+            "description": "Presença de auto-PEEP."
+          },
+          {
+            "id": 4,
+            "description": "Presença de broncoespasmo."
+          },
+          {
+            "id": 5,
+            "description": "Nenhuma das alternativas acima."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 39,
+        "question": "A curva representada abaixo se refere a qual modo ventilatório?",
+        "image": "public/images/GHC/39-2020.png",
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "NAVA."
+          },
+          {
+            "id": 2,
+            "description": "ASV."
+          },
+          {
+            "id": 3,
+            "description": "Automode."
+          },
+          {
+            "id": 4,
+            "description": "Smart-Care."
+          },
+          {
+            "id": 5,
+            "description": "APRV."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 40,
+        "question": "Em relação ao uso de válvula fonatória em pacientes criticamente doentes, analise as assertivas abaixo:\n\n I. Pode ser utilizada em pacientes ainda intubados via orotraqueal.\n II. Pode ser usada em pacientes traqueostomizados, porém sempre com o balonete insuflado.\n III. Pode ser utilizada em pacientes traqueostomizados que apresentem grande quantidade de secreção respiratória.\n\n Quais estão INCORRETAS?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2020",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      }
+    ]
+  }
+]
