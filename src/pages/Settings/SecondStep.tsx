@@ -77,7 +77,7 @@ const SecondStep: React.FC = () => {
         selectedYear === 'todos' ? Object.keys(questionsData) : [selectedYear];
       let filteredQuestions: Question[] = [];
       for (const year of selectedExams) {
-        const response = await fetch(`/public/assets/Exams/${year}.json`);
+        const response = await fetch(`/src/Exams/GHC/${year}.json`);
         if (!response.ok) {
           throw new Error(`Failed to load ${year} exam data`);
         }

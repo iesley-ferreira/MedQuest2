@@ -1,0 +1,973 @@
+[
+  {
+    "examId": 4,
+    "nome": "GHC/Federal",
+    "ano": "2021",
+    "edital": "No 03/2021",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 3,
+    "questions": [
+      {
+        "questionId": 10,
+        "question": "Relacione a Coluna 1 à Coluna 2, associando as descrições com os respectivos conceitos.\n\n Coluna 1\n 1. População que está presente no território da UBS, de forma a estimular o desenvolvimento de relações de vínculo e responsabilização entre as equipes e a população.\n 2. Aponta para o desenvolvimento de ações de cuidado de forma singularizada, que auxilie as pessoas a  desenvolverem os conhecimentos, aptidões, competências e a confiança necessária para gerir e tomar decisões embasadas sobre sua própria saúde e seu cuidado de saúde de forma mais efetiva.\n 3. Utilização e articulação de diferentes tecnologias de cuidado individual e coletivo, por meio de uma clínica ampliada capaz de construir vínculos positivos e intervenções clínica e sanitariamente efetivas, centrada na pessoa, na perspectiva de ampliação dos graus de autonomia dos indivíduos e grupos sociais.\n 4. Pressupõe a continuidade da relação de cuidado, com construção de vínculo e responsabilização entre profissionais e usuários ao longo do tempo e de modo permanente e consistente.\n\n Coluna 2\n ( ) Resolutividade.\n ( ) Cuidado centrado na pessoa.\n ( ) População adscrita.\n ( ) Longitudinalidade do cuidado.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "3 – 2 – 1 – 4."
+          },
+          {
+            "id": 2,
+            "description": "2 – 1 – 4 – 3."
+          },
+          {
+            "id": 3,
+            "description": "1 – 4 – 3 – 2."
+          },
+          {
+            "id": 4,
+            "description": "4 – 3 – 2 – 1."
+          },
+          {
+            "id": 5,
+            "description": "4 – 2 – 1 – 3."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 11,
+        "question": "Considerando o Decreto no 7.508/2011, analise a sentença baixo:\n\n A Relação Nacional de Medicamentos Essenciais – RENAME compreende a seleção e a padronização de medicamentos indicados para atendimento de doenças ou de agravos no âmbito do SUS (1a parte). A RENAME será acompanhada do Formulário Terapêutico Nacional – FTN que subsidiará a prescrição, a dispensação e o uso dos seus medicamentos (2a parte). O Estado, o Distrito Federal e o Município poderão adotar relações específicas e complementares de medicamentos, em consonância com a RENAME, respeitadas as responsabilidades dos entes pelo financiamento de medicamentos, de acordo com o pactuado nas Comissões Intergestores (3a parte).\n\n Quais partes estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas a 1a parte."
+          },
+          {
+            "id": 2,
+            "description": "Apenas a 3a parte."
+          },
+          {
+            "id": 3,
+            "description": "Apenas a 1a e a 2a partes."
+          },
+          {
+            "id": 4,
+            "description": "Apenas a 2a e a 3a partes."
+          },
+          {
+            "id": 5,
+            "description": "Todas as partes."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 12,
+        "question": "O Sistema Único de Saúde (SUS) contará, em cada esfera de governo, sem prejuízo das funções do Poder Legislativo, com instâncias colegiadas. Sobre o tema, analise as características abaixo:\n\n *Possui organização e normas de funcionamento definidas em regimento próprio.\n *Tem caráter permanente e deliberativo.\n *É órgão colegiado composto por representantes do governo, prestadores de serviço, profissionais de saúde e usuários.\n *Atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente, inclusive nos aspectos econômicos e financeiros.\n\n As características acima referem-se a qual instância colegiada?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Conselho Nacional de Secretários de Saúde."
+          },
+          {
+            "id": 2,
+            "description": "Conselho Nacional de Secretários Municipais de Saúde."
+          },
+          {
+            "id": 3,
+            "description": "Colegiado de Gestão Regional."
+          },
+          {
+            "id": 4,
+            "description": "Conselho de Saúde."
+          },
+          {
+            "id": 5,
+            "description": "Comissão Intergestores Tripartite."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 13,
+        "question": "De acordo com a Lei no 8.080/1990, o Sistema Único de Saúde (SUS) poderá recorrer aos serviços ofertados pela iniciativa privada. Nesse sentido, analise as afirmações abaixo:\n\n 1. Poderá recorrer quando as suas disponibilidades do SUS forem insuficientes para garantir a cobertura assistencial à população de uma determinada área.\n 2. A participação complementar dos serviços privados será formalizada mediante contrato ou convênio, observadas, a respeito, as normas de direito público.\n 3. Os critérios e valores para a remuneração de serviços e os parâmetros de cobertura assistencial serão estabelecidos pela direção nacional do Sistema Único de Saúde (SUS), aprovados no conselho de entidades privadas.\n 4. Os serviços contratados submeter-se-ão às normas técnicas e administrativas e aos princípios e diretrizes do Sistema Único de Saúde (SUS), mantido o equilíbrio econômico e financeiro do contrato.\n 5. Aos proprietários, administradores e dirigentes de entidades ou serviços contratados é vedado exercer cargo de chefia ou função de confiança no Sistema Único de Saúde (SUS).\n\n O resultado da somatória dos números correspondentes às afirmações corretas é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "7."
+          },
+          {
+            "id": 2,
+            "description": "8."
+          },
+          {
+            "id": 3,
+            "description": "10."
+          },
+          {
+            "id": 4,
+            "description": "12."
+          },
+          {
+            "id": 5,
+            "description": "15."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 14,
+        "question": "Em relação às competências do Sistema Único de Saúde, de acordo com o Art. 200 da Constituição Federal de 1988, analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.\n\n ( ) Participar da formulação da política e da execução das ações de saneamento básico.\n ( ) Participar do controle e fiscalização da produção, transporte, guarda e utilização somente de substâncias e produtos tóxicos.\n ( ) Ordenar, executar e contratar a formação de recursos humanos na área de saúde.\n ( ) Colaborar na proteção do meio ambiente, nele compreendido o do trabalho.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – F – V – V."
+          },
+          {
+            "id": 2,
+            "description": "V – F – F – V."
+          },
+          {
+            "id": 3,
+            "description": "V – V – F – F."
+          },
+          {
+            "id": 4,
+            "description": "F – V – V – F."
+          },
+          {
+            "id": 5,
+            "description": "F – F – V – V."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 15,
+        "question": "Sobre o Pacto de Gestão que estabelece Diretrizes para a gestão do sistema nos aspectos da descentralização; regionalização; financiamento; planejamento; regulação; participação social e gestão do trabalho e da educação na saúde, analise as perguntas abaixo:\n\n *Qual a diretriz do Sistema Único de Saúde e um eixo estruturante do Pacto de Gestão que deve orientar a descentralização das ações e serviços de saúde?\n *Como são chamados os recortes territoriais inseridos em um espaço geográfico contínuo, identificadas pelos gestores municipais e estaduais a partir de identidades culturais, econômicas e sociais, de redes de comunicação e infraestrutura de transportes compartilhados do território?\n *Como se denomina o arranjo para pactuação entre as Regiões a fim de garantir a atenção na alta complexidade e em parte da média?\n *Como se denomina uma das responsabilidades não compartilhadas, ou seja, que devem ser assumidas por cada município?\n\n Assinale a alternativa que contêm, correta e respectivamente, as respostas para as perguntas acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Regiões de Saúde – Regionalização – Inter-regional – Atenção Básica."
+          },
+          {
+            "id": 2,
+            "description": "Inter-regional – Regionalização – Atenção Básica – Regiões de Saúde."
+          },
+          {
+            "id": 3,
+            "description": "Regionalização – Regiões de Saúde – Inter-regional – Atenção Básica."
+          },
+          {
+            "id": 4,
+            "description": "Atenção Básica – Inter-regional – Regionalização – Regiões de Saúde."
+          },
+          {
+            "id": 5,
+            "description": "Regionalização – Inter-regional – Regiões de Saúde – Atenção Básica."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 16,
+        "question": "A sífilis congênita é a segunda principal causa de óbito fetal evitável em todo o planeta. No Brasil, dados do Boletim Epidemiológico de Sífilis, publicado em novembro/2018 pelo Ministério da Saúde, indicam aumento no número de casos de sífilis em todo o país e em todos os cenários da infecção. Em relação a sífilis, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A sífilis congênita é causada pelo Treponema pallidum e é transmitida apenas por via transplacentária em qualquer momento durante a gravidez."
+          },
+          {
+            "id": 2,
+            "description": "A transmissão via transplacentária ocorre em qualquer fase da gestação, principalmente no terceiro trimestre, tendo menor morbimortalidade se ocorrer nesse período."
+          },
+          {
+            "id": 3,
+            "description": "As manifestações clínicas da sífilis congênita envolvem lesões cutâneas, ósseas, oculares, além de alterações neurológicas."
+          },
+          {
+            "id": 4,
+            "description": "O diagnóstico de sífilis congênita inclui a realização de VDRL, punção lombar e radiografia de ossos longos."
+          },
+          {
+            "id": 5,
+            "description": "O tratamento é realizado com penicilina G cristalina 50.000 Ui/kg/dose, IV, 12/12h, nos primeiros sete dias de vida após, de 8/8h até completar 10 dias."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 17,
+        "question": "A Sinvastatina é um medicamento muito utilizado na prática clínica para tratamento de dislipidemia e também para pacientes com alto risco cardiovascular. Dentre os efeitos adversos, quais NÃO se enquadram como efeitos muito comum, comum, incomum ou raro desse medicamento?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Neuropatia periférica."
+          },
+          {
+            "id": 2,
+            "description": "Flatulência."
+          },
+          {
+            "id": 3,
+            "description": "Edema de membros inferiores."
+          },
+          {
+            "id": 4,
+            "description": "Rabdomiólise."
+          },
+          {
+            "id": 5,
+            "description": "Alopecia."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 18,
+        "question": "A rinossinusite é caracterizada por inflamação da mucosa nasal e dos seios paranasais, sendo uma das afecções mais prevalentes das vias aéreas superiores. Dentre as alternativas abaixo, assinale o método padrão-ouro para o seu diagnóstico.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Endoscopia nasal."
+          },
+          {
+            "id": 2,
+            "description": "Radiografia de seios da face."
+          },
+          {
+            "id": 3,
+            "description": "Tomografia computadorizada."
+          },
+          {
+            "id": 4,
+            "description": "Punção do seio."
+          },
+          {
+            "id": 5,
+            "description": "Ressonância nuclear magnética."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 19,
+        "question": "O tratamento dialítico nas situações de insuficiência renal aguda é emergencial por haver um risco iminente para a vida do paciente. Assinale, dentre as situações abaixo, aquela que apresenta indicação de diálise.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hipercalemia apenas com alterações eletrocardiográficas."
+          },
+          {
+            "id": 2,
+            "description": "Uremia, com sintomas neurológicos como sonolência e convulsão."
+          },
+          {
+            "id": 3,
+            "description": "Alcalose metabólica."
+          },
+          {
+            "id": 4,
+            "description": "Intoxicação exógena por álcool."
+          },
+          {
+            "id": 5,
+            "description": "Qualquer grau de insuficiência cardíaca."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 20,
+        "question": "O diagnóstico precoce de neoplasias é uma estratégia que possibilita terapias mais simples e efetivas, ao contribuir para a redução do estágio de apresentação do câncer. Em relação ao rastreamento dessas doenças, analise as assertivas abaixo:\n\n I. A rotina de rastreamento do câncer de colo uterino preconiza a repetição do exame de Papanicolau a cada três anos, após dois exames normais consecutivos no intervalo de um ano.\n II. A mamografia e o exame clínico das mamas são os métodos preconizados para o rastreamento de câncer de mama na rotina de atenção integral à saúde da mulher.\n III. Recomenda-se o rastreamento de câncer de próstata em homens assintomáticos com idade superior a 75 anos, uma vez que existe nível de evidência mostrando que os benefícios da estratégia superam os danos dos procedimentos indicados.\n IV. O rastreamento de câncer de cólon e reto usando pesquisa de sangue oculto nas fezes, colonoscopia ou sigmoidoscopia é recomendado para adultos entre 50 e 75 anos.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas III e IV."
+          },
+          {
+            "id": 5,
+            "description": "Apenas I, II e IV."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 21,
+        "question": "São causas indiretas de SARA, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Pancreatite aguda."
+          },
+          {
+            "id": 2,
+            "description": "Sepse."
+          },
+          {
+            "id": 3,
+            "description": "Edema agudo de pulmão cardiogênico."
+          },
+          {
+            "id": 4,
+            "description": "Politrauma."
+          },
+          {
+            "id": 5,
+            "description": "Transfusão sanguínea."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 22,
+        "question": "É fator de risco trombótico relacionado ao cateter venoso central:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Inserção na veia jugular."
+          },
+          {
+            "id": 2,
+            "description": "Múltiplas vias."
+          },
+          {
+            "id": 3,
+            "description": "Passagem do cateter no turno diurno."
+          },
+          {
+            "id": 4,
+            "description": "Inserção na veia subclávia."
+          },
+          {
+            "id": 5,
+            "description": "Canulação por período superior a 3 dias."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 23,
+        "question": "São casos de pacientes com indicação clara de ventilação mecânica não invasiva se disfunção ventilatória, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Edema pulmonar cardiogênico."
+          },
+          {
+            "id": 2,
+            "description": "Choque séptico e acidose metabólica."
+          },
+          {
+            "id": 3,
+            "description": "DPOC exacerbado."
+          },
+          {
+            "id": 4,
+            "description": "Paciente imunossuprimido com disfunção ventilatória."
+          },
+          {
+            "id": 5,
+            "description": "Disfunção respiratória após transplante de órgão sólido."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 24,
+        "question": "É alteração eletrocardiográfica secundária à hipotermia:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Intervalo PR curto."
+          },
+          {
+            "id": 2,
+            "description": "Surgimento da onda J."
+          },
+          {
+            "id": 3,
+            "description": "Intervalo QT curto."
+          },
+          {
+            "id": 4,
+            "description": "Alargamento do QRS."
+          },
+          {
+            "id": 5,
+            "description": "Surgimento da onda U."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 25,
+        "question": "São causas de hipercalemia, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Dapsona."
+          },
+          {
+            "id": 2,
+            "description": "Trimetropim."
+          },
+          {
+            "id": 3,
+            "description": "Heparina."
+          },
+          {
+            "id": 4,
+            "description": "Aminoglicosídeos."
+          },
+          {
+            "id": 5,
+            "description": "Amilorida."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 26,
+        "question": "Assinale a alternativa que contém as classes de antibióticos mais comumente associados com o aparecimento do Clostridium difficile.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Quinolonas e penicilinas."
+          },
+          {
+            "id": 2,
+            "description": "Carbapenêmicos e cefalosporinas."
+          },
+          {
+            "id": 3,
+            "description": "Clindamicina e penicilinas."
+          },
+          {
+            "id": 4,
+            "description": "Carbapenêmicos e penicilinas."
+          },
+          {
+            "id": 5,
+            "description": "Quinolonas e carbapenêmicos."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 27,
+        "question": "A droga de escolha para o manejo inicial de uma reação anafilática é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hidrocortisona."
+          },
+          {
+            "id": 2,
+            "description": "Difenidramina."
+          },
+          {
+            "id": 3,
+            "description": "Epinefrina subcutânea."
+          },
+          {
+            "id": 4,
+            "description": "Cimetidina."
+          },
+          {
+            "id": 5,
+            "description": "Epinefrina intramuscular."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 28,
+        "question": "O distúrbio mais comum após a reposição volêmica em pacientes com queimaduras extensas é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hiperpotassemia."
+          },
+          {
+            "id": 2,
+            "description": "Hiponatremia."
+          },
+          {
+            "id": 3,
+            "description": "Hipercalcemia."
+          },
+          {
+            "id": 4,
+            "description": "Hipernatremia."
+          },
+          {
+            "id": 5,
+            "description": "Hipofosfatemia."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 29,
+        "question": "Analise as seguintes metas e condutas para manejo ventilatório do paciente com SARA e assinale a alternativa correta.\n\n I. Se pressão de platô superior a 30 cm H2O, diminuir Volume Corrente 1 ml/kg de peso predito (mínimo 4 ml/kg).\n II. Se pH menor ou igual a 7,30, aumentar a frequência respiratória até no máximo 35.\n III. Se pH menor do que 7,15, aumentar a frequência respiratória para 35 e considerar administração de bicarbonato de sódio.\n\n",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Todas estão corretas."
+          },
+          {
+            "id": 2,
+            "description": "Todas estão incorretas."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I está correta."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I e II estão corretas."
+          },
+          {
+            "id": 5,
+            "description": "Apenas II e III estão corretas."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 30,
+        "question": "Em relação à SARA, o principal fator que impacta na mortalidade é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Severidade da hipoxemia."
+          },
+          {
+            "id": 2,
+            "description": "Nível de PEEP superior a 10 cmH2O."
+          },
+          {
+            "id": 3,
+            "description": "Complacência menor do que 40 mL/cm H2O."
+          },
+          {
+            "id": 4,
+            "description": "Extensão dos infiltrados alveolares na radiografia de tórax."
+          },
+          {
+            "id": 5,
+            "description": "Volume expirado por minuto maior do que 10 L/min."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 31,
+        "question": "O risco de vasoespasmo em pacientes com hemorragia subaracnóidea baseado nos achados tomográficos é maior nos pacientes com:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Fisher 2, Claasen 3."
+          },
+          {
+            "id": 2,
+            "description": "Fisher 3, Claasen 2."
+          },
+          {
+            "id": 3,
+            "description": "Fisher 4, Claasen 4."
+          },
+          {
+            "id": 4,
+            "description": "Fisher 3, Claasen 4."
+          },
+          {
+            "id": 5,
+            "description": "Fisher 4, Claasen 3."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 32,
+        "question": "As duas variáveis que determinam o transporte de oxigênio (DO2) são:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Volume sistólico e conteúdo arterial de oxigênio."
+          },
+          {
+            "id": 2,
+            "description": "Resistência vascular sistêmica e saturação de oxigênio."
+          },
+          {
+            "id": 3,
+            "description": "Frequência cardíaca e saturação de oxigênio."
+          },
+          {
+            "id": 4,
+            "description": "Débito cardíaco e conteúdo arterial de oxigênio."
+          },
+          {
+            "id": 5,
+            "description": "Nível de hemoglobina e saturação de oxigênio."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 33,
+        "question": "O choque que apresenta pressão venosa central elevada, pressão de oclusão da artéria pulmonar elevada, débito cardíaco reduzido e resistência vascular sistêmica aumentada em um paciente com murmúrios vesiculares abolidos em hemitórax esquerdo é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Cardiogênico."
+          },
+          {
+            "id": 2,
+            "description": "Hipovolêmico."
+          },
+          {
+            "id": 3,
+            "description": "Obstrutivo."
+          },
+          {
+            "id": 4,
+            "description": "Distributivo."
+          },
+          {
+            "id": 5,
+            "description": "Misto."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 34,
+        "question": "Sobre as indicações para implante de cardiodesfibrilador implantável, analise as assertivas abaixo:\n\n I. Pacientes com fração de ejeção menor ou igual a 35%, 40 dias pós IAM e classe funcional II ou III da New York Hearth Association.\n II. Pacientes com doença cardíaca estrutural e taquicardia ventricular sustentada espontânea.\n III. Pacientes com fração de ejeção menor ou igual a 30%, 40 dias pós IAM e classe funcional I da New York Hearth Association.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas III."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 35,
+        "question": "São causas de coma que impossibilitam estabelecer o diagnóstico de morte encefálica, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Uso de drogas depressoras do SNC."
+          },
+          {
+            "id": 2,
+            "description": "Hipotermia grave."
+          },
+          {
+            "id": 3,
+            "description": "Hipotensão grave."
+          },
+          {
+            "id": 4,
+            "description": "Distúrbios eletrolíticos graves surgidos após estabelecimento do coma aperceptivo."
+          },
+          {
+            "id": 5,
+            "description": "Uso de bloqueadores musculares."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 36,
+        "question": "Das alternativas abaixo, a que contém o fármaco com maior meia-vida é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Fentanil."
+          },
+          {
+            "id": 2,
+            "description": "Midazolam."
+          },
+          {
+            "id": 3,
+            "description": "Etomidato."
+          },
+          {
+            "id": 4,
+            "description": "Cetamina."
+          },
+          {
+            "id": 5,
+            "description": "Pancurônio."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 37,
+        "question": "Assinale a alternativa que apresenta as variáveis do qSOFA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Glasgow, taquipneia e hipotensão."
+          },
+          {
+            "id": 2,
+            "description": "Glasgow, taquicardia e oligúria."
+          },
+          {
+            "id": 3,
+            "description": "Hipotensão, febre e taquicardia."
+          },
+          {
+            "id": 4,
+            "description": "Taquipneia, taquicardia e hipotensão."
+          },
+          {
+            "id": 5,
+            "description": "Glasgow, taquicardia e taquipneia."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 38,
+        "question": "É fator de risco para infecção fúngica por criprococo e histoplasma:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Internação prolongada em UTI."
+          },
+          {
+            "id": 2,
+            "description": "Nutrição parenteral total."
+          },
+          {
+            "id": 3,
+            "description": "Uso de cateter venoso central."
+          },
+          {
+            "id": 4,
+            "description": "Transplantados de órgãos sólidos."
+          },
+          {
+            "id": 5,
+            "description": "Usuários de drogas injetáveis."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 39,
+        "question": "Em relação à insuficiência renal aguda em pacientes em UTI, assinale a alternativa correta.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Em pacientes com choque e instabilidade hemodinâmica, a hemodiálise contínua reduz mortalidade se comparada à hemodiálise intermitente."
+          },
+          {
+            "id": 2,
+            "description": "Pequenos aumentos transitórios nos níveis séricos de creatinina (até 0,4 mg/dL) durante a internação não provocaram aumento na mortalidade."
+          },
+          {
+            "id": 3,
+            "description": "O desenvolvimento de insuficiência renal aguda durante internação em UTI não causa aumento de risco para doença renal crônica futuramente se totalmente recuperada."
+          },
+          {
+            "id": 4,
+            "description": "O uso de solução salina tem efeito protetor sobre a ocorrência se insuficiência renal aguda se comparado com soluções balanceadas como ringer lactato."
+          },
+          {
+            "id": 5,
+            "description": "Uso prévio de inibidores da enzima conversora da angiotensina é fator de risco para ocorrência e gravidade de insuficiência renal aguda em pacientes na UTI."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 40,
+        "question": "Em relação às recomendações nutricionais para pacientes em ventilação mecânica, a alternativa correta é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2021",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A calorimetria indireta não é um bom método para determinar as necessidades de energia em pacientes em ventilação mecânica."
+          },
+          {
+            "id": 2,
+            "description": "As necessidades proteicas ideais ficam entre 1,0 e 1,2 g/kg de proteína."
+          },
+          {
+            "id": 3,
+            "description": "Carboidratos devem compor 60 a 80% das calorias não proteicas da formulação."
+          },
+          {
+            "id": 4,
+            "description": "A hiperfosfatemia é comum em pacientes com desnutrição grave."
+          },
+          {
+            "id": 5,
+            "description": "O volume diário de calorias ideal é de 18 a 20 kcal/ kg para um paciente em ventilação mecânica."
+          }
+        ],
+        "rightAlternativeId": 3
+      }
+    ]
+  }
+]

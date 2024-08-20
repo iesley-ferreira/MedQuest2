@@ -1,0 +1,1252 @@
+[
+  {
+    "examId": 5,
+    "nome": "GHC/Federal",
+    "ano": "2022",
+    "edital": "No 02/2022",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 3,
+    "questions": [
+      {
+        "questionId": 1,
+        "question": "De acordo com o disposto no Art. 2o da Portaria no 2.436/2017, a Atenção Básica é o conjunto de ações de saúde individuais, familiares e ______________ que envolvem promoção, prevenção, proteção, diagnóstico, tratamento, ______________, redução de danos, cuidados paliativos e ______________ em saúde, desenvolvida por meio de práticas de cuidado integrado e gestão qualificada, realizada com equipe multiprofissional e dirigida à população em território definido, sobre as quais as equipes assumem responsabilidade sanitária.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "coletivas – reabilitação – vigilância"
+          },
+          {
+            "id": 2,
+            "description": "comunitárias – recuperação – regulação"
+          },
+          {
+            "id": 3,
+            "description": "coletivas – recuperação – vigilância"
+          },
+          {
+            "id": 4,
+            "description": "comunitárias – reabilitação – regulação"
+          },
+          {
+            "id": 5,
+            "description": "coletivas – reabilitação – regulação"
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 2,
+        "question": "Em relação às atribuições comuns dos Agentes Comunitários de Saúde (ACS) e Agentes de Combate a Endemias (ACE), analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) Gerenciar o processo de territorialização e mapeamento da área de atuação da equipe.\n ( ) Exercer outras atribuições que lhes sejam atribuídas por legislação específica da categoria.\n ( ) Estimular a participação da comunidade nas políticas públicas voltadas para a área da saúde.\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "F – F – V."
+          },
+          {
+            "id": 2,
+            "description": "F – V – V."
+          },
+          {
+            "id": 3,
+            "description": "V – V – V."
+          },
+          {
+            "id": 4,
+            "description": "F – F – F."
+          },
+          {
+            "id": 5,
+            "description": "V – V – F."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 3,
+        "question": "Assinale a alternativa INCORRETA quanto aos princípios orientadores do processo de regulação de acordo com a Portaria no 399/GM/MS/2006.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Cada prestador poderá responder a vários gestores."
+          },
+          {
+            "id": 2,
+            "description": "A operação dos complexos reguladores, no que se refere à referência intermunicipal, deve ser pactuada na CIB (Comissão Intergestores Bipartite)."
+          },
+          {
+            "id": 3,
+            "description": "A regulação das referências intermunicipais é responsabilidade do gestor estadual."
+          },
+          {
+            "id": 4,
+            "description": "A regulação dos prestadores de serviços deve ser preferencialmente do município, conforme desenho da rede da assistência pactuado na CIB."
+          },
+          {
+            "id": 5,
+            "description": "A operação dos complexos reguladores, no que se refere à referência intermunicipal, pode ser operada pelo gestor municipal com cogestão do estado e representação dos municípios da região."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 4,
+        "question": "Assinale a alternativa correta quanto às disposições essenciais que deverão constar no Contrato Organizativo da Ação Pública de Saúde, de acordo com o Decreto no 7.508/2011.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "As responsabilidades assumidas pelos entes federativos perante os serviços de saúde no processo de regionalização."
+          },
+          {
+            "id": 2,
+            "description": "A identificação das necessidades de saúde locais e regionais."
+          },
+          {
+            "id": 3,
+            "description": "A disponibilidade de recursos financeiros do Ministério da Saúde para sua execução."
+          },
+          {
+            "id": 4,
+            "description": "A adequação das ações e dos serviços dos entes federativos em relação às atualizações realizadas na RENAME."
+          },
+          {
+            "id": 5,
+            "description": "A oferta de ações e serviços de vigilância em saúde, promoção, proteção e recuperação da saúde em âmbito nacional."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 5,
+        "question": "Assinale a alternativa INCORRETA sobre o direito à saúde, de acordo com a Lei no 10.741/2003.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "POLÍTICAS PÚBLICAS DE SAÚDE",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "O cadastramento da população idosa em base territorial será uma das formas para prevenção e manutenção da saúde."
+          },
+          {
+            "id": 2,
+            "description": "Os planos de saúde poderão ter cobrança de valores diferenciados em razão da idade."
+          },
+          {
+            "id": 3,
+            "description": "Os maiores de 80 (oitenta) anos terão preferência especial sobre as demais pessoas idosas, exceto em caso de emergência."
+          },
+          {
+            "id": 4,
+            "description": "É vedado exigir o comparecimento da pessoa idosa enferma perante os órgãos públicos."
+          },
+          {
+            "id": 5,
+            "description": "A prevenção e a manutenção da saúde da pessoa idosa serão efetivadas por meio de reabilitação orientada pela geriatria e gerontologia, para redução das sequelas decorrentes do agravo da saúde."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 6,
+        "question": "No campo da ética médica e da bioética, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.\n\n ( ) O Código de Ética Médica, a respeito de ensino e pesquisa médica, estabelece que o acesso aos prontuários será permitido aos médicos, em estudos retrospectivos com questões metodológicas justificáveis e autorizados pelo Comitê de Ética em Pesquisa ou pela Comissão Nacional de Ética em Pesquisa.\n ( ) É vedado ao médico, relativamente ao ensino e pesquisa médica estabelecidos pelo Código de Ética Médica, deixar de declarar relações com a indústria de medicamentos, órteses, próteses, equipamentos, implantes de qualquer natureza e outras que possam configurar conflitos de interesse, ainda que em potencial.\n ( ) Para ajudar no desempenho ético da prática médica da atenção à saúde do paciente, é possível orientar-se pelos princípios bioéticos da igualdade (“fazer o bem”), autonomia (“a pessoa escolhe”), justiça (“priorizar com equilíbrio”), e não maleficência (“evitar danos”).\n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "V – V – V."
+          },
+          {
+            "id": 2,
+            "description": "V – V – F."
+          },
+          {
+            "id": 3,
+            "description": "F – F – V."
+          },
+          {
+            "id": 4,
+            "description": "F – V – F."
+          },
+          {
+            "id": 5,
+            "description": "V – F – V."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 7,
+        "question": "No campo da epidemiologia, um(a) médico(a) conduziu um estudo em um pequeno número de casos identificados em um centro de referência especializado em doença causada pelo vírus SARS-CoV-2. Os casos foram acompanhados ao longo do tempo, durante dez meses, para descrever o curso clínico da Covid-19, os tratamentos instituídos e o estado atual da doença, com uma amostra de casos prevalentes, não necessariamente representativa dos casos incidentes. O desenho desse estudo é mais especificamente relacionado com:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Estudo de caso-controle."
+          },
+          {
+            "id": 2,
+            "description": "Estudo de coorte histórica."
+          },
+          {
+            "id": 3,
+            "description": "Ensaio clínico randomizado."
+          },
+          {
+            "id": 4,
+            "description": "Regra de predição clínica."
+          },
+          {
+            "id": 5,
+            "description": "Série de casos."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 8,
+        "question": "Um teste diagnóstico é geralmente compreendido como um teste realizado em laboratório, porém pode ser aplicado às informações clínicas obtidas pela anamnese, pelo exame clínico e por procedimentos de imagem. Sobre os testes ou exames diagnósticos, assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Um teste sensível deve ser escolhido quando houver uma penalidade importante ao deixar de detectar uma doença, pois serve para descartar uma condição."
+          },
+          {
+            "id": 2,
+            "description": "As curvas ROC (Receiver Operator Characteristic) são úteis para comparar testes alternativos para um mesmo diagnóstico e a acurácia global de um determinado teste pode ser descrita como a área sob a curva ROC."
+          },
+          {
+            "id": 3,
+            "description": "As razões de verossimilhança são uma forma alternativa de descrever o desempenho de um teste diagnóstico, podendo ser usadas em múltiplos níveis de resultados de testes."
+          },
+          {
+            "id": 4,
+            "description": "A incidência da doença, também chamada de probabilidade anterior ou pré-teste, é a probabilidade de doença antes do resultado do teste ser conhecido."
+          },
+          {
+            "id": 5,
+            "description": "Os testes executados em série, ou consecutivos, como consequências tendem a diminuir a sensibilidade e a aumentar a especificidade."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 9,
+        "question": "A respeito do tratamento com fármacos anti-hipertensivos e seus respectivos efeitos adversos mais comuns, analise as assertivas abaixo:\n\n I. Di-hidropiridinas – cefaleia, edema periférico e palpitação.\n II. Inibidores da ECA – hipocalemia e tosse seca.\n III. Diuréticos tiazídicos – hiperuricemia e hipocalemia.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 10,
+        "question": "Uma atleta amadora com 22 anos de idade, enquanto jogava futebol, ao correr velozmente buscando alcançar a bola, sofreu uma queda brusca devido à perda transiente da consciência, com perda correspondente do tônus postural, seguida de recuperação espontânea e total. No exame médico imediato, estava lúcida, orientada, sem traumatismo aparente e sem dispneia. Negava história prévia de sintomas, de eventos semelhantes, de jejum e não fazia uso de fármacos ou estimulantes. Na investigação diagnóstica de síncope dessa paciente, qual o achado de seu eletrocardiograma será mais preocupante, suscitando uma investigação mais aprofundada?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Bradicardia sinusal."
+          },
+          {
+            "id": 2,
+            "description": "Onda P bifásica em V1, com pequena deflexão positiva inicial e pequena deflexão negativa terminal."
+          },
+          {
+            "id": 3,
+            "description": "Onda P positiva na derivação II e invertida em aVR."
+          },
+          {
+            "id": 4,
+            "description": "Frequência cardíaca de 50 batimentos por minuto."
+          },
+          {
+            "id": 5,
+            "description": "Intervalo QT corrigido de 480 ms."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 11,
+        "question": "A respeito de doenças cerebrovasculares que devem ser encaradas como situações de emergência médica, analise as seguintes assertivas:\n\n I. A etiologia do acidente vascular cerebral isquêmico pode ser classificada pelos critérios TOAST (Trial of Org 10172 in Acute Stroke Treatment) em cardioembólico, aterotrombótico, lacunar, outras etiologias e indeterminado.\n II. Fontes potenciais de alto risco para cardioembolia, segundo os critérios TOAST, incluem a prótese valvar sintética e o trombo ventricular esquerdo após infarto agudo do miocárdio.\n III. O delirium sem demência prévia ou sobreposto a ela, a convulsão e os tumores intracranianos estão entre os diagnósticos mais confundidos com acidente vascular cerebral.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 12,
+        "question": "No âmbito das estratégias preventivas para as Doenças Crônicas Não Transmissíveis (DCNTs), a Organização das Nações Unidas (ONU) realizou sua 3a Reunião de Alto Nível sobre Cobertura Universal de Saúde em 2018 e foi estabelecida a chamada Agenda 5x5 para enfrentamento dessas DCNTs. As cinco doenças incluídas são as cardiovasculares, respiratória crônica, diabetes, câncer e __________________. Os cinco fatores de risco incluem alimentação inadequada, atividade física inadequada, consumo prejudicial de álcool, tabagismo e ________________.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "transtornos mentais – poluição atmosférica"
+          },
+          {
+            "id": 2,
+            "description": "doenças renais – trabalho fatigante"
+          },
+          {
+            "id": 3,
+            "description": "transtornos comportamentais – direção veicular descuidada"
+          },
+          {
+            "id": 4,
+            "description": "doenças endócrinas – destinação inadequada de lixo"
+          },
+          {
+            "id": 5,
+            "description": "doenças de pele – uso abusivo de medicamentos"
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 13,
+        "question": "Considerando a coagulação intravascular disseminada, encontramos, com relação às plaquetas, tempo de tromboplastina parcial ativado e fibrinogênio:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Diminuído, aumentado, aumentado."
+          },
+          {
+            "id": 2,
+            "description": "Aumentado, diminuído, diminuído."
+          },
+          {
+            "id": 3,
+            "description": "Diminuído, aumentado, diminuído."
+          },
+          {
+            "id": 4,
+            "description": "Aumentado, diminuído, aumentado."
+          },
+          {
+            "id": 5,
+            "description": "Diminuído, diminuído, diminuído."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 14,
+        "question": "Fazem parte da análise do SOFA Score, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Creatinina."
+          },
+          {
+            "id": 2,
+            "description": "Transaminases."
+          },
+          {
+            "id": 3,
+            "description": "Bilirrubinas."
+          },
+          {
+            "id": 4,
+            "description": "Uso de vasopressor."
+          },
+          {
+            "id": 5,
+            "description": "Hipoxemia."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 15,
+        "question": "Sobre pressões intracardíacas e ondas no eletrocardiograma, a onda ____ representa a pressão gerada pelo preenchimento venoso do _______ direito, enquanto a válvula ________ é fechada.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A – ventrículo – pulmonar"
+          },
+          {
+            "id": 2,
+            "description": "C – átrio – tricúspide"
+          },
+          {
+            "id": 3,
+            "description": "V – ventrículo – tricúspide"
+          },
+          {
+            "id": 4,
+            "description": "A – átrio – pulmonar"
+          },
+          {
+            "id": 5,
+            "description": "V – átrio – tricúspide"
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 16,
+        "question": "Qual das alternativas abaixo causa um exsudato no derrame pleural?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Tuberculose."
+          },
+          {
+            "id": 2,
+            "description": "Cirrose hepática."
+          },
+          {
+            "id": 3,
+            "description": "Embolia pulmonar."
+          },
+          {
+            "id": 4,
+            "description": "Síndrome nefrótica."
+          },
+          {
+            "id": 5,
+            "description": "Insuficiência cardíaca."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 17,
+        "question": "Em um caso de parada cardiorrespiratória, a ausência de pulso arterial é mais adequadamente verificada em qual sítio?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Femoral."
+          },
+          {
+            "id": 2,
+            "description": "Braquial."
+          },
+          {
+            "id": 3,
+            "description": "Carotídeo."
+          },
+          {
+            "id": 4,
+            "description": "Radial."
+          },
+          {
+            "id": 5,
+            "description": "Pedioso."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 18,
+        "question": "São efeitos adversos possíveis do cetorolaco no manejo da dor aguda em pacientes em pós-operatório de cirurgia de grande porte na UTI, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Úlcera péptica."
+          },
+          {
+            "id": 2,
+            "description": "Broncoespasmo."
+          },
+          {
+            "id": 3,
+            "description": "Inibição da função plaquetária."
+          },
+          {
+            "id": 4,
+            "description": "Taquicardia."
+          },
+          {
+            "id": 5,
+            "description": "Náusea."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 19,
+        "question": "Dentre as alternativas abaixo, o medicamento que antagoniza o bloqueio de agentes bloqueadores neuromusculares é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Tetraciclina."
+          },
+          {
+            "id": 2,
+            "description": "Procainamida."
+          },
+          {
+            "id": 3,
+            "description": "Ranitidina."
+          },
+          {
+            "id": 4,
+            "description": "Verapamil."
+          },
+          {
+            "id": 5,
+            "description": "Metoprolol."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 20,
+        "question": "Dentre as alternativas abaixo, a que contém o sítio mais aceito como sendo o mais fidedigno para determinar a temperatura central no organismo é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Axilar."
+          },
+          {
+            "id": 2,
+            "description": "Timpânico."
+          },
+          {
+            "id": 3,
+            "description": "Retal."
+          },
+          {
+            "id": 4,
+            "description": "Esofágico."
+          },
+          {
+            "id": 5,
+            "description": "Sublingual."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 21,
+        "question": "A tonometria gástrica utiliza qual das variáveis abaixo para avaliar a perfusão tecidual?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "pH."
+          },
+          {
+            "id": 2,
+            "description": "pO2."
+          },
+          {
+            "id": 3,
+            "description": "pCO2."
+          },
+          {
+            "id": 4,
+            "description": "Bicarbonato."
+          },
+          {
+            "id": 5,
+            "description": "Lactato."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 22,
+        "question": "O estiramento do ventrículo esquerdo aumenta a produção de qual hormônio?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Vasopressina."
+          },
+          {
+            "id": 2,
+            "description": "Peptídeo natriurético atrial."
+          },
+          {
+            "id": 3,
+            "description": "Cortisol."
+          },
+          {
+            "id": 4,
+            "description": "Hormônio do crescimento."
+          },
+          {
+            "id": 5,
+            "description": "Peptídeo natriurético cerebral."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 23,
+        "question": "O fluxo sanguíneo cerebral é agudamente reduzido se _________ for reduzida em 50%, e é dobrado se ________ for dobrada.\n\n Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "pO2 – pCO2"
+          },
+          {
+            "id": 2,
+            "description": "pCO2 – pO2"
+          },
+          {
+            "id": 3,
+            "description": "PIC – pCO2"
+          },
+          {
+            "id": 4,
+            "description": "pCO2 – pCO2"
+          },
+          {
+            "id": 5,
+            "description": "pO2 – pO2"
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 24,
+        "question": "Fazem parte do arsenal terapêutico do tratamento do paciente com hipertensão intracraniana, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Infusão de bicarbonato."
+          },
+          {
+            "id": 2,
+            "description": "Solução salina hiperosmolar."
+          },
+          {
+            "id": 3,
+            "description": "Hiperventilação."
+          },
+          {
+            "id": 4,
+            "description": "Sedação."
+          },
+          {
+            "id": 5,
+            "description": "Bloqueador neuromuscular."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 25,
+        "question": "Em relação ao paciente com sintomas de insuficiência cardíaca que apresentam perfusão ruim em repouso e não apresentam congestão em repouso, pode ser classificado como paciente:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Quente e seco."
+          },
+          {
+            "id": 2,
+            "description": "Frio e úmido."
+          },
+          {
+            "id": 3,
+            "description": "Quente e úmido."
+          },
+          {
+            "id": 4,
+            "description": "Frio e seco."
+          },
+          {
+            "id": 5,
+            "description": "Sem dados suficientes para responder."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 26,
+        "question": "Um paciente com estenose aórtica grave possui uma velocidade de jato (ms), um gradiente pressórico médio (mmHg) e uma área valvar (cm2), respectivamente:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "< 3,0; > 25; > 1,0."
+          },
+          {
+            "id": 2,
+            "description": "> 4,0; > 40; < 1,0."
+          },
+          {
+            "id": 3,
+            "description": "< 4,0; > 40; < 1,2."
+          },
+          {
+            "id": 4,
+            "description": "> 3,0; < 30; < 2,0."
+          },
+          {
+            "id": 5,
+            "description": "> 3,5; < 30; < 1,0."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 27,
+        "question": "O anti-hipertensivo que causa dilatação de arteríolas e vênulas, reduz a pós-carga e a pré-carga e diminui a demanda de oxigênio do miocárdio é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Nitroglicerina."
+          },
+          {
+            "id": 2,
+            "description": "Hidralazina."
+          },
+          {
+            "id": 3,
+            "description": "Labetalol."
+          },
+          {
+            "id": 4,
+            "description": "Nitroprussiato de sódio."
+          },
+          {
+            "id": 5,
+            "description": "Nifedipino."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 28,
+        "question": "Qual o horário oficial do óbito de um paciente doador de órgãos com diagnóstico de morte encefálica?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A do primeiro exame clínico."
+          },
+          {
+            "id": 2,
+            "description": "A do exame complementar diagnóstico."
+          },
+          {
+            "id": 3,
+            "description": "A do segundo exame clínico."
+          },
+          {
+            "id": 4,
+            "description": "A da retirada dos órgãos para doação."
+          },
+          {
+            "id": 5,
+            "description": "A da hora do último exame conclusivo de morte cerebral."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 29,
+        "question": "São contraindicações para a doação de órgãos, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hepatite aguda."
+          },
+          {
+            "id": 2,
+            "description": "Tuberculose em atividade."
+          },
+          {
+            "id": 3,
+            "description": "Sepse pulmonar independente de estado hemodinâmico."
+          },
+          {
+            "id": 4,
+            "description": "Malária."
+          },
+          {
+            "id": 5,
+            "description": "Infecção aguda por Epstein Barr."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 30,
+        "question": "Sobre a relação ventilação/perfusão (V/Q) em pacientes em ortostase, analise as assertivas abaixo:\n\n I. A zona 1 concentra a maior relação V/Q.\n II. A zona de maior fluxo sanguíneo é a zona 3.\n III. A zona de maior ventilação é a zona 3.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 31,
+        "question": "Paciente com queimadura de face anterior do braço esquerdo, parte frontal do tronco, cabeça e face anterior da perna esquerda tem uma área de superfície corporal queimada de, aproximadamente:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "32%."
+          },
+          {
+            "id": 2,
+            "description": "36%."
+          },
+          {
+            "id": 3,
+            "description": "40%."
+          },
+          {
+            "id": 4,
+            "description": "44%."
+          },
+          {
+            "id": 5,
+            "description": "48%."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 32,
+        "question": "Na fórmula ideal da nutrição parenteral total, as proporções de glicose, proteína e lipídios devem ser, nessa ordem:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "20% – 40% – 40%."
+          },
+          {
+            "id": 2,
+            "description": "50% – 20% – 30%."
+          },
+          {
+            "id": 3,
+            "description": "30% – 50% – 20%."
+          },
+          {
+            "id": 4,
+            "description": "70% – 15% – 15%."
+          },
+          {
+            "id": 5,
+            "description": "35% – 15% – 50%."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 33,
+        "question": "Qual das alternativas abaixo NÃO tem cobertura para o tratamento de infecções por pseudomonas multissensivel?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Cefepima."
+          },
+          {
+            "id": 2,
+            "description": "Piperacilina sódica+tazobactam sódico."
+          },
+          {
+            "id": 3,
+            "description": "Ciprofloxacin."
+          },
+          {
+            "id": 4,
+            "description": "Tigeciclina."
+          },
+          {
+            "id": 5,
+            "description": "Aztreonam."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 34,
+        "question": "A precaução para o atendimento de pacientes com a varíola dos macacos deve ser:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Aerossol e contato."
+          },
+          {
+            "id": 2,
+            "description": "Gotículas e contato."
+          },
+          {
+            "id": 3,
+            "description": "Apenas aerossol."
+          },
+          {
+            "id": 4,
+            "description": "Apenas gotículas."
+          },
+          {
+            "id": 5,
+            "description": "Apenas contato."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 35,
+        "question": "Qual das alternativas abaixo contém um antibiótico sem ação para o tratamento de infecções de corrente sanguínea por Staphylococus meticilino resistente?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Vancomicina."
+          },
+          {
+            "id": 2,
+            "description": "Daptomicina."
+          },
+          {
+            "id": 3,
+            "description": "Linezolida."
+          },
+          {
+            "id": 4,
+            "description": "Teicoplanina."
+          },
+          {
+            "id": 5,
+            "description": "Dalbavancina."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 36,
+        "question": "Fazem parte dos critérios diagnósticos de delirium, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Início agudo de alterações."
+          },
+          {
+            "id": 2,
+            "description": "Desatenção."
+          },
+          {
+            "id": 3,
+            "description": "Desorganização do pensamento."
+          },
+          {
+            "id": 4,
+            "description": "Alteração do nível de consciência."
+          },
+          {
+            "id": 5,
+            "description": "Agressividade."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 37,
+        "question": "São contraindicações para ventilação não invasiva, EXCETO:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Imunossupressão grave."
+          },
+          {
+            "id": 2,
+            "description": "Hemorragia digestiva grave."
+          },
+          {
+            "id": 3,
+            "description": "Cirurgia de face."
+          },
+          {
+            "id": 4,
+            "description": "Instabilidade hemodinâmica."
+          },
+          {
+            "id": 5,
+            "description": "Encefalopatia grave."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 38,
+        "question": "O choque que cursa com pressão capilar pulmonar reduzida e débito cardíaco aumentado é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hipovolêmico."
+          },
+          {
+            "id": 2,
+            "description": "Cardiogênico."
+          },
+          {
+            "id": 3,
+            "description": "Obstrutivo."
+          },
+          {
+            "id": 4,
+            "description": "Distributivo."
+          },
+          {
+            "id": 5,
+            "description": "Medular."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 39,
+        "question": "A taquicardia com complexo QRS estreito com atividade atrial contínua, organizada em 250 é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Fibrilação atrial."
+          },
+          {
+            "id": 2,
+            "description": "Flutter atrial."
+          },
+          {
+            "id": 3,
+            "description": "Taquicardia sinusal."
+          },
+          {
+            "id": 4,
+            "description": "Taquicardia atrial multifocal."
+          },
+          {
+            "id": 5,
+            "description": "Taquicardia atrial ectópica."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 40,
+        "question": "A angina de Ludwig é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2022",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Dor torácica atípica em paciente com ponte intramiocárdica."
+          },
+          {
+            "id": 2,
+            "description": "Dor epigástrica após refeição copiosa."
+          },
+          {
+            "id": 3,
+            "description": "Claudicação intermitente em paciente vasculopata por hipercolesterolemia."
+          },
+          {
+            "id": 4,
+            "description": "Edema submandibular com obstrução das vias aéreas."
+          },
+          {
+            "id": 5,
+            "description": "Cefaleia pulsátil por arterite de artéria cerebral media."
+          }
+        ],
+        "rightAlternativeId": 4
+      }
+    ]
+  }
+]

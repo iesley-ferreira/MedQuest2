@@ -1,0 +1,477 @@
+[
+  {
+    "examId": 2,
+    "nome": "GHC/Federal",
+    "ano": "2018",
+    "edital": "No 03/2018",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 3,
+    "questions": [
+      {
+        "questionId": 24,
+        "question": "__________ irá acontecer quando existir a ocorrência de surtos em várias regiões. __________ em nível municipal é aquela que ocorre quando diversos bairros apresentam certa doença, em nível estadual ocorre quando diversas cidades registram casos, e em nível nacional, quando a doença ocorre em diferentes regiões do país.\n\n Assinale a alternativa em que a palavra se encaixa nas  acunas para compor corretamente o significado da descrição no texto.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Pandemia"
+          },
+          {
+            "id": 2,
+            "description": "Epidemia"
+          },
+          {
+            "id": 3,
+            "description": "Endemia"
+          },
+          {
+            "id": 4,
+            "description": "Praga"
+          },
+          {
+            "id": 5,
+            "description": "Peste"
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 27,
+        "question": "São exames que deverão ser colhidos na primeira consulta de pré-natal, segundo o Ministério de Saúde, exceto:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Hemograma, VDRL, Sorologia HIV."
+          },
+          {
+            "id": 2,
+            "description": "Urina 1, Toxoplasmose IGM e IGG e Tipagem Sanguínea."
+          },
+          {
+            "id": 3,
+            "description": "Glicemia de Jejum, Sorologia para Hepatite B, VDRL."
+          },
+          {
+            "id": 4,
+            "description": "Urocultura, Colpocitologia oncótica e Secreção Vaginal."
+          },
+          {
+            "id": 5,
+            "description": "Glicemia de Jejum, Coagulograma, Sorologia para herpes."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 28,
+        "question": "O microrganismo responsável por 80 a 90% das infecções urinárias na gestação é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Escherichia coli."
+          },
+          {
+            "id": 2,
+            "description": "Klebsiella."
+          },
+          {
+            "id": 3,
+            "description": "Enterobacter."
+          },
+          {
+            "id": 4,
+            "description": "Proteus."
+          },
+          {
+            "id": 5,
+            "description": "Estreptococo do grupo B."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 29,
+        "question": "Trata-se de uma infecção sexualmente transmissível, cujo agente é o _____________________, um protozoário. Preenche corretamente a lacuna o que se apresenta em qual alternativa?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Trichomonas vaginalis"
+          },
+          {
+            "id": 2,
+            "description": "Klebsiella granulomatis"
+          },
+          {
+            "id": 3,
+            "description": "Treponema pallidum"
+          },
+          {
+            "id": 4,
+            "description": "Haemophilus ducreyi"
+          },
+          {
+            "id": 5,
+            "description": "Chlamydia trachomatis"
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 30,
+        "question": "O câncer de colo de útero está atingindo as mulheres significativamente. Para ficar mais fácil a detecção dessa enfermidade, foi estabelecida uma idade para realização do exame de Papanicolau obrigatório em mulheres com vida sexual ativa.\n\n Assinale a alternativa que corresponde a esse período na vida da mulher.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "25 a 64 anos."
+          },
+          {
+            "id": 2,
+            "description": "24 a 55 anos."
+          },
+          {
+            "id": 3,
+            "description": "25 a 80 anos."
+          },
+          {
+            "id": 4,
+            "description": "15 a 90 anos."
+          },
+          {
+            "id": 5,
+            "description": "20 a 65 anos."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 31,
+        "question": "Para vacinação contra HPV (Papilomavírus humano), qual é a população alvo, segundo o Ministério da Saúde?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Meninas e adolescentes de 9 a 14 anos (14 anos, 11 meses e 29 dias) e os meninos e adolescentes de 11 a 14 anos de idade (14 anos, 11 meses e 29 dias)."
+          },
+          {
+            "id": 2,
+            "description": "Somente mulheres de 9 a 26 anos de idade, hígidos."
+          },
+          {
+            "id": 3,
+            "description": "Somente homens de 9 a 26 anos de idade, hígidos."
+          },
+          {
+            "id": 4,
+            "description": "Todos os portadores de doenças crônicas."
+          },
+          {
+            "id": 5,
+            "description": "Adolescentes de 9 a 14 anos, portadores de doenças crônicas."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 32,
+        "question": "A Lei 8080/90 dispõe sobre condições para promoção, proteção e recuperação da saúde. Nela, entende-se por vigilância sanitária um conjunto de ações abrangendo:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A participação na execução de ações de saneamento básico."
+          },
+          {
+            "id": 2,
+            "description": "A prevenção de mudanças em fatores determinantes da saúde coletiva."
+          },
+          {
+            "id": 3,
+            "description": "O controle da prestação de serviços que se relacionem direta ou indiretamente com a saúde."
+          },
+          {
+            "id": 4,
+            "description": "O acesso a informações sobre a atuação dos serviços de saúde."
+          },
+          {
+            "id": 5,
+            "description": "O controle de bens de consumo que, direta ou indiretamente, não se relacionem com a saúde, compreendidas em algumas das etapas e processos."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 33,
+        "question": "De acordo com o Programa Nacional de Imunizações (PNI), a vacina contra febre amarela está indicada para pessoas que residam ou que irão viajar para área endêmica, área de transição e área de risco potencial para a transmissão da doença. Quando alguém for viajar para áreas de risco, a vacina contra Febre Amarela deverá ser realizada quantos dias antes da viagem, para conferir a imunidade?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "30 (trinta) dias antes da viagem."
+          },
+          {
+            "id": 2,
+            "description": "20 (vinte) dias antes da viagem."
+          },
+          {
+            "id": 3,
+            "description": "15 (quinze) dias antes da viagem."
+          },
+          {
+            "id": 4,
+            "description": "10 (dez) dias antes da viagem."
+          },
+          {
+            "id": 5,
+            "description": "5 (cinco) dias antes da viagem."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 34,
+        "question": "O tratamento do diabetes melito envolve mudanças do estilo de vida e intervenção farmacológica com insulina ou agentes hipoglicemiantes.\n\n Sobre o tratamento da diabetes, assinale a alternativa incorreta.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "No diabetes tipo I, o principal objetivo é repor a secreção de insulina, porém deve-se também mudar os hábitos alimentares e o estilo de vida."
+          },
+          {
+            "id": 2,
+            "description": "A intervenção farmacológica representa uma estratégia secundária para pacientes incapazes de efetuar mudanças no estilo de vida."
+          },
+          {
+            "id": 3,
+            "description": "A duração da insulina NPH varia de 5 a 8 horas."
+          },
+          {
+            "id": 4,
+            "description": "Após a injeção da insulina regular, a produção de GLUT-4, pelas células, ocorrerá após 30 min."
+          },
+          {
+            "id": 5,
+            "description": "A insulina regular tem duração de ação menor que a NPH."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 35,
+        "question": "A síndrome de Guillain-Barré (SGB) é clinicamente caracterizada por paresia ou paralisia que afeta mais de um membro, geralmente simétrica, associada à perda de reflexos tendinosos e ao aumento da proteína liquórica.\n\n Sabendo-se que a SBG causa uma degeneração axonal variável, a doença também pode ser chamada de:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Neuropatia motora multifocal."
+          },
+          {
+            "id": 2,
+            "description": "Polineuropatia desmielizante inflamatória crônica."
+          },
+          {
+            "id": 3,
+            "description": "Polineuropatia desmielizante inflamatória aguda."
+          },
+          {
+            "id": 4,
+            "description": "Neuropatias atáxicas imunomediadas."
+          },
+          {
+            "id": 5,
+            "description": "Neuropatias vasculíticas."
+          }
+        ],
+        "rightAlternativeId": 3
+      },
+      {
+        "questionId": 36,
+        "question": "Varicela é uma doença infecciosa aguda, caracterizada por erupção vesicular generalizada. Como é extremamente contagiosa, é mais contraída na infância.\n Os principais objetivos terapêuticos são evitar a infecção secundária e aliviar o prurido. Porém, em alguns casos, principalmente imunossuprimidos, podem necessitar de tratamentos medicamentosos, que nesse caso seria:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Aciclovir."
+          },
+          {
+            "id": 2,
+            "description": "Amoxicilina."
+          },
+          {
+            "id": 3,
+            "description": "Albendazol."
+          },
+          {
+            "id": 4,
+            "description": "Miltefosina."
+          },
+          {
+            "id": 5,
+            "description": "Anfotericina B."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 37,
+        "question": "Um tipo de vírus, encontrado em inúmeras espécies de animais, possui capacidade de permanecer latente e de induzir tumores em animais de laboratório. Trata-se de um vírus DNA agrupado em 6 subgêneros, com base na diferença do conteúdo do genoma. Estes vírus podem infectar e causar doença em vários tecidos epiteliais humanos, incluindo olhos, trato respiratório, trato gastrointestinal e bexiga. A maioria das infecções em indivíduos imunocomprometidos é subclínica. Esse mesmo vírus pode ser eliminado durante meses após uma infecção gastrointestinal ou respiratória.\n\n Assinale a alternativa que indica o vírus a que o texto está se referindo.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Coronavírus."
+          },
+          {
+            "id": 2,
+            "description": "Vírus parainfluenza."
+          },
+          {
+            "id": 3,
+            "description": "Vírus Influenza."
+          },
+          {
+            "id": 4,
+            "description": "Adenovírus."
+          },
+          {
+            "id": 5,
+            "description": "Paramixovírus."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 38,
+        "question": "Um tipo de situação cardíaca é caracterizada por um estado patológico com várias etiologias potenciais, cujo aspecto comum é a redução acentuada de perfusão tecidual devido ao comprometimento primário do miocárdio.\n\n Assinale a alternativa que indica qual síndrome clínica é mencionada no texto.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Envenenamento crônico."
+          },
+          {
+            "id": 2,
+            "description": "Distúrbio hídrico."
+          },
+          {
+            "id": 3,
+            "description": "Envenenamento agudo."
+          },
+          {
+            "id": 4,
+            "description": "Choque relacionado com sépsis."
+          },
+          {
+            "id": 5,
+            "description": "Choque cardiogênico."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 39,
+        "question": "Atualmente existem várias terapias promissoras, porém ainda não comprovadas para o AVC isquêmico agudo. Mesmo quando existem tratamentos eficazes disponíveis, a oportunidade do médico de instituir o tratamento e a utilidade de determinada farmacoterapia é dificultada pela restrição de tempo.\n Sobre o acidente vascular cerebral, assinale a alternativa que não apresenta um tipo de prevenção dessa situação clínica.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Parar de fumar."
+          },
+          {
+            "id": 2,
+            "description": "Tratar a hipertensão."
+          },
+          {
+            "id": 3,
+            "description": "Parar de consumir bebidas alcoólicas."
+          },
+          {
+            "id": 4,
+            "description": "Uso de AAS de 500 mg."
+          },
+          {
+            "id": 5,
+            "description": "Uso criterioso de anticoncepcionais orais."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 40,
+        "question": "Epilepsia é um termo aplicado a um grupo de condições crônicas, cuja principal manifestação clínica é a ocorrência de convulsões, que são ataques súbitos e, em geral, não provocados de fenômenos subjetivos experienciais, alteração de consciência, movimentos involuntários ou abalos musculares.\n A probabilidade de desenvolver epilepsia pós-traumática relaciona-se diretamente à gravidade do traumatismo craniano.\n Analisando um paciente que teve traumatismo craniano há 3 anos, o médico reduziu a dose de carbamazepina 200 mg para 2 vezes ao dia, no caso, esse paciente corre o risco de:",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2018",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Se adaptar à nova dose de 400 mg por dia."
+          },
+          {
+            "id": 2,
+            "description": "Convulsionar, pois a dose mínima diária é de 800 mg."
+          },
+          {
+            "id": 3,
+            "description": "Convulsionar, pois a dose recomendada mínima diária é de 600 mg."
+          },
+          {
+            "id": 4,
+            "description": "Se adaptar, pois a dose inicial é de 100 a 200 mg por dia, como o paciente utiliza há um longo período, há uma tentativa de desmame da medicação."
+          },
+          {
+            "id": 5,
+            "description": "Convulsionar, pois a dose mínima desse medicamento é de 1600 mg por dia."
+          }
+        ],
+        "rightAlternativeId": 2
+      }
+    ]
+  }
+]

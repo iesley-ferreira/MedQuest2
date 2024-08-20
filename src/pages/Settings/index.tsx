@@ -11,7 +11,7 @@ const Settings: React.FC = () => {
   return (
     <section className="login-container">
       <div className="logo">
-        <img src="public/assets/logo1.png" alt="logo" />
+        <img src="/assets/logo1.png" alt="logo" />
       </div>
       <div className="title">
         Med

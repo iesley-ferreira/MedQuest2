@@ -1,0 +1,322 @@
+[
+  {
+    "examId": 1,
+    "nome": "GHC/Federal",
+    "ano": "2014",
+    "edital": "No 05/2014",
+    "descrição": "MÉDICO (Medicina Intensiva)",
+    "processoSeletivo": 5,
+    "questions": [
+      {
+        "questionId": 31,
+        "question": "Em relação à ventilação mecânica pressão-controlada (VPC), \n\n assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2014",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A limitação do volume corrente pelo tempo inspiratório é particularmente importante nas condições de baixa resistência ou baixa complacência, nas quais o equilíbrio entre as pressões das vias aéreas e alveolar demora a ocorrer."
+          },
+          {
+            "id": 2,
+            "description": "Um fator determinante do volume corrente é a diferença entre a pressão das vias aéreas e a pressão alveolar. O desenvolvimento do auto-PEEP durante a VPC interfere no volume corrente gerado."
+          },
+          {
+            "id": 3,
+            "description": "A garantia de uma ventilação alveolar adequada durante a VPC exige ajustes mais complexos nos parâmetros do ventilador do que na ventilação mecânica volume-controlada"
+          },
+          {
+            "id": 4,
+            "description": "O fluxo inspiratório é sempre desacelerado na VPC, sendo que o padrão de desaceleração depende da impedância (resistência e complacência) do sistema respiratório."
+          },
+          {
+            "id": 5,
+            "description": "O principal parâmetro a ser ajustado na VPC é o nível de pressão na via aérea, pois ele terá influência direta sobre o fluxo e o volume corrente que o paciente receberá."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 32,
+        "question": "Analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas. \n\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:\n\n\n () A auto-PEEP é a pressão positiva no interior dos alvéolos ao final da expiração em função da não exalação completa do volume corrente. Nessa situação, o pulmão não chega a se esvaziar até a sua capacidade residual funcional – ou em razão da obstrução ao fluxo expiratório ou em função da ventilação com altas frequências e/ou altos volumes correntes.\n () Uma forma de pesquisar a auto-PEEP consiste em medir a pressão de platô do paciente, promover uma pausa expiratória longa (30 segundos) e repetir a medida da pressão de platô. A diferença entre as duas medidas é o valor da auto-PEEP.\n () O desmame ventilatório é definido como a transição abrupta ou gradual da ventilação artificial para a ventilação espontânea em pacientes que permanecem em ventilação mecânica invasiva por tempo superior a 24 horas. Quando o indivíduo é capaz de respirar confortavelmente por 2 horas, com pressão suporte de 15 cm H2O, ele pode ser extubado.\n () Alguns estudos já demonstraram que o teste da respiração espontânea não pode ser feito com a mesma eficácia em pacientes em ventilação mecânica nas modalidades pressão suporte, pressão positiva contínua nas vias aéreas (CPAP) ou ventilação assistida proporcional.\n () O uso profilático de corticoides sistêmicos, para evitar estridor após extubação traqueal e a necessidade de reintubação, não é recomendado para pacientes adultos.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2014",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "F – V – V – F – F."
+          },
+          {
+            "id": 2,
+            "description": "V – V – F – V – V."
+          },
+          {
+            "id": 3,
+            "description": "F – F – V – V – F."
+          },
+          {
+            "id": 4,
+            "description": "V – V – F – F – V."
+          },
+          {
+            "id": 5,
+            "description": "V – F – V – V – F."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 33,
+        "question": "Analise as assertivas abaixo:\n\n I. Como moduladores do processo inflamatório, os esteroides mostraram-se capazes de baixar a temperatura corporal e a frequência cardíaca. Provaram também ser capazes de diminuir concentrações séricas de marcadores inflamatórios como proteína C reativa, interleucinas 6 e 8, fator de necrose tumoral e endotelina. Agem, também, como reguladores do tônus vascular, incrementando a resposta vasopressora à adrenalina e acelerando a retirada de fármacos vasoativos.\n II. A lactatemia elevada não deve ser vista isoladamente como marcador de hipóxia tecidual; entretanto, vários estudos documentam sua correlação com a mortalidade. De forma reflexa, a ausência de hiperlactatemia não exime o intensivista de chegar a outros dados perfusionais.\n III. A Síndrome Compartimental Abdominal é definida como PIA >20 mmHg, independente da pressão de perfusão abdominal, e é associada à disfunção orgânica. \n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2014",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 34,
+        "question": "Assinale a alternativa correta.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2014",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "A administração de diuréticos e aminas simpaticomiméticas, mesmo provocando natriurese, não altera os resultados dos índices urinários."
+          },
+          {
+            "id": 2,
+            "description": "Deve-se destacar a distinção entre proteinúria de origem glomerular e tubular, pois é baseada não apenas na quantidade de proteína excretada na urina, mas também no tipo. A proteinúria de origem tubular (comum nas situações de nefrotoxicidade) é composta por proteínas de baixo peso molecular, refletindo substâncias filtradas livremente pelos glomérulos e reabsorvidas pelos túbulos proximais."
+          },
+          {
+            "id": 3,
+            "description": "As principais proteínas marcadoras de lesão tubular que podem ser utilizadas clinicamente são a microglobulina-2 beta e a proteína de Tamm-Horsfall."
+          },
+          {
+            "id": 4,
+            "description": "Dentre os índices urinários na prática médica, a fração excretora de sódio, ou seja, a relação urinário-plasmática de sódio dividida pela relação urinário-plasmática de creatinina, é o método mais amplamente utilizado para distinguir entre insuficiência renal aguda – renal, na qual a capacidade de reabsorção das células tubulares e a capacidade de concentração urinária estão preservadas, e a necrose tubular aguda, na qual ambas as funções estão comprometidas."
+          },
+          {
+            "id": 5,
+            "description": "Dentre todos os pequenos solutos endógenos contidos na água corpórea total, a ureia possui as melhores características de “marcador” ideal de filtração glomerular."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 35,
+        "question": "Assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": "2014",
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "De acordo com o estudo ISIS 2, comprovou- se que a administração de aspirina, isoladamente, foi suficiente para reduzir em aproximadamente 25% a mortalidade hospitalar em pacientes com Infarto Agudo do Miocárdio (IAM)."
+          },
+          {
+            "id": 2,
+            "description": "É indiscutível a importância das plaquetas na formação do trombo oclusivo das artérias relacionadas à isquemia. Portanto, fármacos que bloqueiam a atividade plaquetária, como os inibidores da glicoproteína IIb/IIIa, têm sido utilizados no sentido de otimizar os resultados da angioplastia primária com melhor nível de perfusão miocárdica."
+          },
+          {
+            "id": 3,
+            "description": "Em pacientes com Infarto Agudo do Miocárdio IAM em centro habilitado, que preencham todas as condições necessárias, a Intervenção Coronariana Percutânea (ICP) primária é considerada a melhor estratégia de abordagem inicial."
+          },
+          {
+            "id": 4,
+            "description": "A mortalidade foi diminuída pela utilização do abciximab nos pacientes submetidos à angioplastia transcutânea convencional, tendo havido modificação quando analisado o resultado dos pacientes que receberam stent (endopróteses coronárias)."
+          },
+          {
+            "id": 5,
+            "description": "Mais recentemente, observou-se a importância somatória do trombo vermelho ao trombo plaquetário no processo de oclusão coronária. Essa observação tem grande importância no tratamento do Infarto Agudo do Miocárdio (IAM) com angioplastia primária e no processo de otimização dos resultados com os stents e os bloqueadores plaquetários."
+          }
+        ],
+        "rightAlternativeId": 4
+      },
+      {
+        "questionId": 36,
+        "question": "Assinale a alternativa INCORRETA.",
+        "image": null,
+        "anulada": false,
+        "questionYear": null,
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Altas concentrações de (FiO2 > 0,6) podem causar efeitos tóxicos aos pneumócitos em razão da formação de espécies reativas de oxigênio, o que leva a desnitrogenação alveolar e a atelectasias de reabsorção, resultando em uma piora da relação ventilação/perfusão (V/Q)."
+          },
+          {
+            "id": 2,
+            "description": "A ventilação mecânica não invasiva é a estratégia de suporte ventilatório com pressão negativa que permite oferecer, às vias aéreas, altos fluxos de oxigênio com FiO2 variável e ajustável, por meio de dispositivos específicos (máscara facial, nasal, etc.), evitando-se intubações orotraqueais e suas complicações."
+          },
+          {
+            "id": 3,
+            "description": "A ventilação mecânica não invasiva não deve retardar a intubação de pacientes que não respondam bem ao tratamento nas primeiras horas."
+          },
+          {
+            "id": 4,
+            "description": "A pressão de suporte é o modo ventilatório mais utilizado para promover o desmame ventilatório, em razão da melhor sincronia entre o ventilador e o paciente."
+          },
+          {
+            "id": 5,
+            "description": "O recrutamento alveolar é o aumento temporário da pressão transpulmonar, com a intenção de vencer a pressão crítica de abertura dos alvéolos colapsados, aumentando a complacência estática dos pulmões e a troca gasosa. Desse modo, evita-se a abertura e o fechamento cíclico das unidades alveolares instáveis e, consequentemente, o trauma mecânico."
+          }
+        ],
+        "rightAlternativeId": 2
+      },
+      {
+        "questionId": 37,
+        "question": "Com relação à avaliação da oligúria no paciente crítico, analise as assertivas abaixo: \n\n I. A oligúria é uma entidade clínica de gravidade variável, caracterizada pela produção de urina < 100 ml/24 ou < 0,1 ml/kg/h em um adulto. \n II. A Insuficiência Renal Aguda (IRA) em UTIs tem um prognóstico ruim, com taxas de mortalidade que variam de 30 a 70%. De forma geral, a IRA na sua forma oligúrica está associada a piores resultados do que na sua forma não oligúrica. \n III. O limiar inferior do mecanismo autorregulatório ocorre com pressão arterial média < 60 mmHg. Abaixo desse nível pressórico, o fluxo sanguíneo renal e a filtração glomerular diminuem de acordo com a queda da pressão arterial. \n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": null,
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas II."
+          },
+          {
+            "id": 2,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas II e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 38,
+        "question": "Analise as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.\n\n ( ) Os efeitos do Sistema Renina-Angiotensina-Aldosterona (SRAA), nos rins, levam à retenção de líquido e de sódio, o que causa congestão sistêmica, com piora da insuficiência, causando consequente círculo vicioso.\n\n ( ) Um potencial agravante da função renal em pacientes com insuficiência cardíaca são os próprios diuréticos. Eles podem causar ou piorar a insuficiência renal se utilizados em pacientes que não estejam hipervolêmicos.\n\n ( ) Nos pacientes com síndrome cardiorrenal, o levosimendan e o milrinone não devem ser utilizados nos pacientes hipotensos.\n\n ( ) É incomum nos pacientes com sinais de congestão sistêmica e baixo débito cardíaco combinado, especialmente naqueles com insuficiência cardíaca crônica descompensada, o desenvolvimento de resistência aos diuréticos.\n\n ( ) A maneira ideal de avaliar a função renal é pelo clearance de creatinina.\n A ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+        "image": null,
+        "anulada": false,
+        "questionYear": null,
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "F – V – V – F – V."
+          },
+          {
+            "id": 2,
+            "description": "V – V – F – V – V."
+          },
+          {
+            "id": 3,
+            "description": "F – F – V – V – F."
+          },
+          {
+            "id": 4,
+            "description": "V – V – F – F – V."
+          },
+          {
+            "id": 5,
+            "description": "V – F – V – V – F."
+          }
+        ],
+        "rightAlternativeId": 1
+      },
+      {
+        "questionId": 39,
+        "question": "Analise as assertivas abaixo:\n\n I. A medida da Pressão Venosa Central (PVC) não é um bom método de avaliação da oferta de fluidos, pois pode sofrer influência da complacência venosa, da pressão pleural e da pressão abdominal.\n II. A Pressão de Oclusão da Artéria Pulmonar (POAP) tem sido implicada como método pouco sensível de eficácia da expansão intravascular de fluidos, já que algumas situações clínicas, como, por exemplo, complacência ventricular alterada, estenose ou regurgitação valvar, podem produzir erros na interpretação dos valores.\n III. A administração de fluidos no perioperatório é variável e tem implicações com a evolução clínica do paciente em cirurgias. Há uma grande variabilidade de regimes de fluidos, podendo variar desde a administração de grandes volumes, chamado de regime liberal, até pequenos volumes, chamado de regime restritivo.\n\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": 2014,
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas II."
+          },
+          {
+            "id": 3,
+            "description": "Apenas III."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 5,
+            "description": "I, II e III."
+          }
+        ],
+        "rightAlternativeId": 5
+      },
+      {
+        "questionId": 40,
+        "question": "Analise as assertivas abaixo:\n\n I. As principais causas da Síndrome Hepatorrenal são infecções bacterianas (principalmente a peritonite bacteriana espontânea), uso de diuréticos, paracentese de alívio de grande volume sem a reposição de albumina subsequente e quadros de hipovolemia (hemorragia digestória alta, diarreia e choque).\n II. A primeira linha de tratamento na Síndrome Hepatorrenal é a associação do vasoconstritor terlipressina e a albumina.\n III. O tratamento vasopressor se baseia em análogos da noradrenalina (dopamina e terlipressina), que têm a propriedade de ligação nos receptores alfa e beta presentes em maior quantidade na circulação esplâncnica e na musculatura lisa vascular.\n Quais estão corretas?",
+        "image": null,
+        "anulada": false,
+        "questionYear": 2014,
+        "scope": "CONHECIMENTOS ESPECÍFICOS",
+        "alternatives": [
+          {
+            "id": 1,
+            "description": "Apenas I."
+          },
+          {
+            "id": 2,
+            "description": "Apenas III."
+          },
+          {
+            "id": 3,
+            "description": "Apenas I e II."
+          },
+          {
+            "id": 4,
+            "description": "Apenas I e III."
+          },
+          {
+            "id": 5,
+            "description": "Apenas II e III."
+          }
+        ],
+        "rightAlternativeId": 3
+      }
+    ]
+  }
+]
