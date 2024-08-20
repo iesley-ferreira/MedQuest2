@@ -485,7 +485,6 @@ option {
 
 .question-image {
   width: 100%;
-  border: 1px solid green;
   max-height: 500px;
 }
 
