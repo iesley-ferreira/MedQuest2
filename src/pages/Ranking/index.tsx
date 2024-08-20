@@ -30,7 +30,7 @@ const Ranking: React.FC = () => {
     <section className="ranking-container">
       <div className="ranking-card">
         <img
-          src="public/images/ranking-image.png"
+          src="/assets/images/ranking-image.png"
           alt="Ranking"
           className="ranking-image"
         />
@@ -42,7 +42,7 @@ const Ranking: React.FC = () => {
             <div className="player-info-container" key={index}>
               <img
                 alt="Player Avatar"
-                src="public/images/medic-icon-ranking.png"
+                src="/assets/images/medic-icon-ranking.png"
                 className="ranking-avatar"
               />
               <div>

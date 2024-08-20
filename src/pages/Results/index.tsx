@@ -61,7 +61,7 @@ const Results: React.FC = () => {
           <img
             data-testid="header-profile-picture"
             alt="studentsImage"
-            src="public/images/feedback.png"
+            src="/assets/images/feedback.png"
           />
           <p data-testid="header-player-name" className="score-name-text">
             {userName}

@@ -568,7 +568,7 @@
       {
         "questionId": 28,
         "question": "Comparando as três curvas pressão-volume abaixo, quais delas representariam um paciente com Síndrome do Desconforto Respiratório Agudo já em fase fibroproliferativa da doença?",
-        "image": "public/images/GHC/28-2020.png",
+        "image": "/assets/images/GHC/28-2020.png",
         "anulada": false,
         "questionYear": "2020",
         "scope": "CONHECIMENTOS ESPECÍFICOS",
@@ -692,7 +692,7 @@
       {
         "questionId": 32,
         "question": "Paciente em ventilação mecânica há 7 dias, com melhora dos sinais de insuficiência respiratória, inicia processo de desmame ventilatório e, após 2 horas de suspensão da sedação, apresenta-se desconfortável e com as curvas ventilatórias demonstradas abaixo: \n\n Sobre esse caso, assinale a alternativa correta.",
-        "image": "public/images/GHC/32-2020.png",
+        "image": "/assets/images/GHC/32-2020.png",
         "anulada": false,
         "questionYear": "2020",
         "scope": "CONHECIMENTOS ESPECÍFICOS",
@@ -847,7 +847,7 @@
       {
         "questionId": 37,
         "question": "Qual o diagnóstico da radiografia de tórax ilustrada abaixo?",
-        "image": "public/images/GHC/37-2020.png",
+        "image": "/assets/images/GHC/37-2020.png",
         "anulada": false,
         "questionYear": "2020",
         "scope": "CONHECIMENTOS ESPECÍFICOS",
@@ -878,7 +878,7 @@
       {
         "questionId": 38,
         "question": "Na curva de capnografia abaixo, as setas sugerem qual alteração?",
-        "image": "public/images/GHC/38-2020.png",
+        "image": "/assets/images/GHC/38-2020.png",
         "anulada": false,
         "questionYear": "2020",
         "scope": "CONHECIMENTOS ESPECÍFICOS",
@@ -909,7 +909,7 @@
       {
         "questionId": 39,
         "question": "A curva representada abaixo se refere a qual modo ventilatório?",
-        "image": "public/images/GHC/39-2020.png",
+        "image": "/assets/images/GHC/39-2020.png",
         "anulada": false,
         "questionYear": "2020",
         "scope": "CONHECIMENTOS ESPECÍFICOS",
