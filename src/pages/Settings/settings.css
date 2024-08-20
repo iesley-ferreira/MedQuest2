@@ -36,6 +36,7 @@
   color: #000000de;
   padding: 16px 26px;
   width: 100%;
+  font-size: 1rem;
 }
 
 .login-input:focus {
@@ -46,6 +47,7 @@
 .login-input::placeholder {
   border: none;
   color: #000000de;
+  font-size: 1rem;
 }
 
 .button {
