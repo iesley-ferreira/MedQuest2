@@ -46,7 +46,7 @@ Git
 
 # Installation
 
-1 - Clone this repository from [https://github.com/iesley-ferreira/MedQuest](https://github.com/iesley-ferreira/MedQuest2)
+1 - Clone this repository from [https://github.com/iesley-ferreira/MedQuest2](https://github.com/iesley-ferreira/MedQuest2)
 
 2 - Install dependencies npm install
 
